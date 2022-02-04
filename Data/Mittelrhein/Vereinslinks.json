@@ -1,0 +1,978 @@
+{
+    "\"Mittelrhein__129__0123456789ABCDEF0123456700004120\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/1-fc-dueren-1-fc-dueren-mittelrhein/-/saison/2122/team-id/023K48F318000000VS548984VTFV1I8K\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/fc-hennef-05-fc-hennef-05-mittelrhein/-/saison/2122/team-id/011MIE8GEO000000VTVG0001VTR8C1K7\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/sv-bergisch-gladbach-sv-bergisch-gladbach-mittelrhein/-/saison/2122/team-id/011MIF3H1S000000VTVG0001VTR8C1K7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/spvg-frechen-20-spvg-frechen-20-mittelrhein/-/saison/2122/team-id/011MIEUJLG000000VTVG0001VTR8C1K7\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/siegburger-sv-1-siegburger-sv-04-ev-mittelrhein/-/saison/2122/team-id/011MIAE880000000VTVG0001VTR8C1K7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/borussia-freialdenhoven-sc-borussia-freialdenhoven-mittelrhein/-/saison/2122/team-id/011MIBAS9K000000VTVG0001VTR8C1K7\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/viktoria-arnoldsweiler-fc-viktoria-08-arnoldsweiler-mittelrhein/-/saison/2122/team-id/011MIE8FV4000000VTVG0001VTR8C1K7\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/fc-pesch-i-fc-pesch-1956-ev-mittelrhein/-/saison/2122/team-id/011MIBNGU8000000VTVG0001VTR8C1K7\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/bcv-glesch-paffendorf-bc-viktoria-glesch-paffendorf-mittelrhein/-/saison/2122/team-id/011MIBNGQ4000000VTVG0001VTR8C1K7\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/vfl-08-vichttal-vfl-vichttal-mittelrhein/-/saison/2122/team-id/011MIC85I0000000VTVG0001VTR8C1K7\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/vfl-alfter-vfl-alfter-1925-ev-mittelrhein/-/saison/2122/team-id/011MIBH8AK000000VTVG0001VTR8C1K7\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/fc-huerth-fc-huerth-mittelrhein/-/saison/2122/team-id/011MIBT3LC000000VTVG0001VTR8C1K7\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/fc-bw-friesdorf-fc-bw-friesdorf-mittelrhein/-/saison/2122/team-id/01HJ2PG63C000000VV0AG80NVT6JKAPB\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/sv-eilendorf-sv-eilendorf-mittelrhein/-/saison/2122/team-id/011MIE0TCS000000VTVG0001VTR8C1K7\""
+        ],
+        "14": [
+            "https://www.fussball.de/mannschaft/sc-fortuna-koeln-u23-sc-fortuna-koeln-ev-mittelrhein/-/saison/2122/team-id/011MICLN3K000000VTVG0001VTR8C1K7\""
+        ],
+        "15": [
+            "https://www.fussball.de/mannschaft/spvg-wesseling-urfeld-spvg-wesseling-urfeld-1946-mittelrhein/-/saison/2122/team-id/011MICDSJS000000VTVG0001VTR8C1K7\""
+        ],
+        "16": [
+            "https://www.fussball.de/mannschaft/deutz-05-i-sportvereinigung-deutz-05-ev-mittelrhein/-/saison/2122/team-id/011MIEUK80000000VTVG0001VTR8C1K7\""
+        ],
+        "17": [
+            "https://www.fussball.de/mannschaft/sv-breinig-sv-breinig-breinigerberg-mittelrhein/-/saison/2122/team-id/011MIEUK9S000000VTVG0001VTR8C1K7\""
+        ]
+    },
+    "\"Mittelrhein__135__00ES8GN000000007VV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/fc-teutonia-weiden-fc-teutonia-weiden-1919-ev-mittelrhein/-/saison/2122/team-id/011MIASKFC000000VTVG0001VTR8C1K7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/sv-eilendorf-ii-sv-eilendorf-mittelrhein/-/saison/2122/team-id/011MICT1R0000000VTVG0001VTR8C1K7\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/tv-konzen-tv-konzen-1922-ev-mittelrhein/-/saison/2122/team-id/011MIBCC44000000VTVG0001VTR8C1K7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/fc-eschweiler-fc-eschweiler-mittelrhein/-/saison/2122/team-id/02BB8B3TBK000000VS5489B1VU20GQ5T\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/rhenania-wuerselen-euchen-sv-rhenania-05-wuerselen-mittelrhein/-/saison/2122/team-id/011MIAE8MS000000VTVG0001VTR8C1K7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/rhenania-richterich-rhenania-richterich-mittelrhein/-/saison/2122/team-id/011MICSVPO000000VTVG0001VTR8C1K7\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/fc-stolberg-fc-stolberg-mittelrhein/-/saison/2122/team-id/016FIJRRLS000000VV0AG811VTDBMRR6\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/burtscheider-tv-burtscheider-tv-mittelrhein/-/saison/2122/team-id/011MICLNQG000000VTVG0001VTR8C1K7\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/vfl-08-vichttal-ii-vfl-vichttal-mittelrhein/-/saison/2122/team-id/011MIE0SQ8000000VTVG0001VTR8C1K7\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/sv-st-joeris-sv-1919-st-joeris-ev-mittelrhein/-/saison/2122/team-id/011MIASKQO000000VTVG0001VTR8C1K7\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/sv-falke-bergrath-sv-falke-eschweiler-bergrath-mittelrhein/-/saison/2122/team-id/011MIDSBG0000000VTVG0001VTR8C1K7\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/sv-kohlscheid-sv-1927-kohlscheid-ev-mittelrhein/-/saison/2122/team-id/011MICDSUG000000VTVG0001VTR8C1K7\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/sv-breinig-ii-sv-breinig-breinigerberg-mittelrhein/-/saison/2122/team-id/011MIE0S1C000000VTVG0001VTR8C1K7\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/tus-lammersdorf-tus-lammersdorf-1926-ev-mittelrhein/-/saison/2122/team-id/011MIB5UIO000000VTVG0001VTR8C1K7\""
+        ],
+        "14": [
+            "https://www.fussball.de/mannschaft/borussia-brand-borussia-brand--mittelrhein/-/saison/2122/team-id/011MIBT4DS000000VTVG0001VTR8C1K7\""
+        ],
+        "15": [
+            "https://www.fussball.de/mannschaft/gw-lichtenbusch-gw-lichtenbusch-mittelrhein/-/saison/2122/team-id/011MI9UIVG000000VTVG0001VTR8C1K7\""
+        ]
+    },
+    "\"Mittelrhein__135__00ES8GN018000001VV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/vfr-wipperfuerth-vfr-wipperfuerth-1914-ev-mittelrhein/-/saison/2122/team-id/011MIE8FLO000000VTVG0001VTR8C1K7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/sv-schoenenbach-sv-1920-schoenenbach-ev-mittelrhein/-/saison/2122/team-id/011MIETBT0000000VTVG0001VTR8C1K7\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/jan-wellem-ssv-jan-wellem-05-berg-gladb-mittelrhein/-/saison/2122/team-id/011MI9H658000000VTVG0001VTR8C1K7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/union-blau-weiss-biesfeld-union-biesfeld-offermannsheide-mittelrhein/-/saison/2122/team-id/011MIDO5D4000000VTVG0001VTR8C1K7\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/sv-refrath-frankenforst-sv-refrath-frankenforst-1926-mittelrhein/-/saison/2122/team-id/011MIASGOC000000VTVG0001VTR8C1K7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/ssv-homburg-nuembrecht-ii-ssv-homburg-nuembrecht-1919-mittelrhein/-/saison/2122/team-id/011MIDO85C000000VTVG0001VTR8C1K7\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/tus-lindlar-tus-lindlar-1925-ev-mittelrhein/-/saison/2122/team-id/011MICLN90000000VTVG0001VTR8C1K7\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/tus-untereschbach-tus-untereschbach-steinbrueck-mittelrhein/-/saison/2122/team-id/011MIDPDIS000000VTVG0001VTR8C1K7\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/ssv-wildbergerhuette-odenspiel-ssv-wildbergerhuette-odenspiel-mittelrhein/-/saison/2122/team-id/01AFOH8BB8000000VV0AG811VUP9M3IJ\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/fc-bensberg-fc-bensberg-2002-ev-mittelrhein/-/saison/2122/team-id/011MIET95K000000VTVG0001VTR8C1K7\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/heiligenhauser-sv-ii-heiligenhauser-sv-ev-mittelrhein/-/saison/2122/team-id/011MIEE9VS000000VTVG0001VTR8C1K7\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/ssv-sueng-djk-ssv-sueng-1931-ev-mittelrhein/-/saison/2122/team-id/011MIB9U2O000000VTVG0001VTR8C1K7\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/ssv-bergneustadt-ssv-bergneustadt-1908-ev-mittelrhein/-/saison/2122/team-id/011MIE0SCG000000VTVG0001VTR8C1K7\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/ssv-marienheide-ssv-marienheide-mittelrhein/-/saison/2122/team-id/011MIFCTIG000000VTVG0001VTR8C1K7\""
+        ],
+        "14": [
+            "https://www.fussball.de/mannschaft/fv-wiehl-iii-fv-wiehl-2000-ev-mittelrhein/-/saison/2122/team-id/012JPPG7CO000000VV0AG811VSSLR9MV\""
+        ],
+        "15": [
+            "https://www.fussball.de/mannschaft/lindlar-ii-tus-lindlar-1925-ev-mittelrhein/-/saison/2122/team-id/011MIF5RKS000000VTVG0001VTR8C1K7\""
+        ]
+    },
+    "\"Mittelrhein__135__00ES8GN018000003VV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/sc-fortuna-bonn-sc-fortuna-bonn-mittelrhein/-/saison/2122/team-id/011MIDH34S000000VTVG0001VTR8C1K7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/fc-flerzheim-fc-1920-flerzheim-ev-mittelrhein/-/saison/2122/team-id/011MIDA45O000000VTVG0001VTR8C1K7\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/sc-volmershoven-heidgen-sc-volmershoven-1921-ev-mittelrhein/-/saison/2122/team-id/011MI9TULC000000VTVG0001VTR8C1K7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/spfr-ippendorf-spfr-ippendorf-1923-ev-mittelrhein/-/saison/2122/team-id/011MI9U09G000000VTVG0001VTR8C1K7\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/marokkanischer-sv-bonn-marokkanischer-sv-bonn-ev-mittelrhein/-/saison/2122/team-id/011MIAVC80000000VTVG0001VTR8C1K7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/sv-ennert-1911-ev-spielvereinigung-ennert-mittelrhein/-/saison/2122/team-id/011MIC7F7K000000VTVG0001VTR8C1K7\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/vta-bonn-vta-bonn-ev-mittelrhein/-/saison/2122/team-id/011MIE01AO000000VTVG0001VTR8C1K7\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/sv-vorgebirge-sv-vorgebirge-23-25-56-ev-mittelrhein/-/saison/2122/team-id/011MIDA39C000000VTVG0001VTR8C1K7\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/sc-alt-ersdorf-sc-altendorf-ersdorf-ev-mittelrhein/-/saison/2122/team-id/011MIDA4M4000000VTVG0001VTR8C1K7\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/tus-puetzchen-05-ev-tus-puetzchen-05-ev-mittelrhein/-/saison/2122/team-id/011MI9HLIO000000VTVG0001VTR8C1K7\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/sv-hertha-buschhoven-sv-hertha-1911-buschhoven-ev-mittelrhein/-/saison/2122/team-id/011MIC2S88000000VTVG0001VTR8C1K7\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/fv-salia-sechtem-fv-salia-sechtem-1923-ev-mittelrhein/-/saison/2122/team-id/011MICKT14000000VTVG0001VTR8C1K7\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/rw-lessenich-fc-rw-lessenich-1951-ev-mittelrhein/-/saison/2122/team-id/011MIBARN8000000VTVG0001VTR8C1K7\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/spfr-ippendorf-ii-spfr-ippendorf-1923-ev-mittelrhein/-/saison/2122/team-id/011MIDENAG000000VTVG0001VTR8C1K7\""
+        ],
+        "14": [
+            "https://www.fussball.de/mannschaft/sv-wormersdorf-sv-wormersdorf-1946-ev-mittelrhein/-/saison/2122/team-id/011MIBA8VK000000VTVG0001VTR8C1K7\""
+        ],
+        "15": [
+            "https://www.fussball.de/mannschaft/tus-germania-hersel-tus-germania-hersel-1910-ev-mittelrhein/-/saison/2122/team-id/011MICLM68000000VTVG0001VTR8C1K7\""
+        ],
+        "16": [
+            "https://www.fussball.de/mannschaft/germania-impekoven-sv-germ-1922-ev-impekoven-mittelrhein/-/saison/2122/team-id/011MIB5DI8000000VTVG0001VTR8C1K7\""
+        ]
+    },
+    "\"Mittelrhein__135__00ES8GN000000006VV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/viktoria-birkesdorf-fc-viktoria-birkesdorf-mittelrhein/-/saison/2122/team-id/011MICC5B4000000VTVG0001VTR8C1K7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/vfvuj02-winden-vfvuj-1902-winden-ev-mittelrhein/-/saison/2122/team-id/011MIA2588000000VTVG0001VTR8C1K7\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/rhenania-lohn-fc-rhenania-1920-lohn-mittelrhein/-/saison/2122/team-id/011MID8SQK000000VTVG0001VTR8C1K7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/sc-alemannia-lendersdorf-sc-alemannia-lendersdorf-mittelrhein/-/saison/2122/team-id/011MIA25A0000000VTVG0001VTR8C1K7\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/sv-merken-sv-merken-mittelrhein/-/saison/2122/team-id/011MID1UJK000000VTVG0001VTR8C1K7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/sg-germania-burgwart-sg-germania-burgwart-mittelrhein/-/saison/2122/team-id/011MIB2Q40000000VTVG0001VTR8C1K7\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/sg-noervenich-hochkirchen-sg-noervenich-hochkirchen-mittelrhein/-/saison/2122/team-id/027HJNDTUK000000VS5489B2VVDR0U48\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/sg-rurland-sv-juelich-1912-ev-mittelrhein/-/saison/2122/team-id/01HKJGRV88000000VV0AG811VTBIQH7J\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/bc-oberzier-bc-oberzier-mittelrhein/-/saison/2122/team-id/011MI97D4O000000VTVG0001VTR8C1K7\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/fc-dueren-77-ev-fc-dueren-77-mittelrhein/-/saison/2122/team-id/011MI9O9P4000000VTVG0001VTR8C1K7\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/sv-viktoria-koslar-i-sv-viktoria-1908-koslar-mittelrhein/-/saison/2122/team-id/011MIBEVOG000000VTVG0001VTR8C1K7\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/sg-vossenack-huertgen-fc-germania-vossenack-1919-mittelrhein/-/saison/2122/team-id/011MI9FJEK000000VTVG0001VTR8C1K7\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/tus-schmidt-tus-schmidt-1911-ev-mittelrhein/-/saison/2122/team-id/011MIC4FD4000000VTVG0001VTR8C1K7\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/spvg-sw-1896-dueren-spvg-sw-dueren-1896-mittelrhein/-/saison/2122/team-id/011MIFAUQS000000VTVG0001VTR8C1K7\""
+        ],
+        "14": [
+            "https://www.fussball.de/mannschaft/kreuzauer-sport-club-1-sc-kreuzau-05-mittelrhein/-/saison/2122/team-id/011MI90MR4000000VTVG0001VTR8C1K7\""
+        ],
+        "15": [
+            "https://www.fussball.de/mannschaft/fc-06-rurdorf-fc-06-rurdorf-ev-mittelrhein/-/saison/2122/team-id/011MIBEVNK000000VTVG0001VTR8C1K7\""
+        ],
+        "16": [
+            "https://www.fussball.de/mannschaft/sv-sw-huchem-stammeln-sv-sw-huchem-stammeln-mittelrhein/-/saison/2122/team-id/011MIB4J8G000000VTVG0001VTR8C1K7\""
+        ]
+    },
+    "\"Mittelrhein__135__00ES8GN018000000VV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/sv-rhenania-bessenich-sv-rhenania-bessenich-mittelrhein/-/saison/2122/team-id/011MID9P2K000000VTVG0001VTR8C1K7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/spvg-laendchen-sieberath-spvg-laendchen-sieberath-mittelrhein/-/saison/2122/team-id/011MIC2RMK000000VTVG0001VTR8C1K7\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/ssv-golbach-ssv-golbach-1928-ev-mittelrhein/-/saison/2122/team-id/011MIBH83G000000VTVG0001VTR8C1K7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/bliesheimer-bc-bliesheimer-bc-mittelrhein/-/saison/2122/team-id/011MIB55I0000000VTVG0001VTR8C1K7\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/sg-flamersheim-kirchheim-vfr-flamersheim-1928-ev-mittelrhein/-/saison/2122/team-id/011MICLN2G000000VTVG0001VTR8C1K7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/ssv-weilerswist-ssv-weilerswist-1924-ev-mittelrhein/-/saison/2122/team-id/011MIA3O68000000VTVG0001VTR8C1K7\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/ssv-eintr-lommersum-i-ssv-lommersum-mittelrhein/-/saison/2122/team-id/011MICRPQO000000VTVG0001VTR8C1K7\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/tsv-schoenau-tsv-schoenau-ev-mittelrhein/-/saison/2122/team-id/011MI97CKS000000VTVG0001VTR8C1K7\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/sv-sw-stotzheim-sv-schw-w-stotzheim-mittelrhein/-/saison/2122/team-id/011MIBUN1G000000VTVG0001VTR8C1K7\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/sc-germania-erftstadt-lechenich-ii-germania-erftstadt-lechenich-mittelrhein/-/saison/2122/team-id/011MIDHUD8000000VTVG0001VTR8C1K7\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/sc-wisskirchen-sc-wisskirchen-mittelrhein/-/saison/2122/team-id/011MI9UKSO000000VTVG0001VTR8C1K7\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/fc-dollendorf-ripsdorf-fc-dollendorf-ripsdorf-mittelrhein/-/saison/2122/team-id/011MIEUK04000000VTVG0001VTR8C1K7\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/vfb-blessem-vfb-blessem-1924-ev-mittelrhein/-/saison/2122/team-id/011MIEMO68000000VTVG0001VTR8C1K7\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/sg-sportfreunde-69-i-marm-nett-sg-sportfreunde-69-marmagen-n-mittelrhein/-/saison/2122/team-id/011MIC3U70000000VTVG0001VTR8C1K7\""
+        ],
+        "14": [
+            "https://www.fussball.de/mannschaft/sg-buervenich-schwerfen-sg-buervenich-schwerfen-mittelrhein/-/saison/2122/team-id/016RAANI88000000VV0AG811VTRPSI2Q\""
+        ],
+        "15": [
+            "https://www.fussball.de/mannschaft/fc-heval-euskirchen-fc-heval-mittelrhein/-/saison/2122/team-id/011MI9M0OO000000VTVG0001VTR8C1K7\""
+        ]
+    },
+    "\"Mittelrhein__135__00ES8GN000000005VV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/sv-roland-millich-1930-ev-sv-roland-millich-1930-ev-mittelrhein/-/saison/2122/team-id/011MIBNGSS000000VTVG0001VTR8C1K7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/ay-yildiz-spor-hueckelhoven-ay-yildizspor-hueckelhoven-ev-mittelrhein/-/saison/2122/team-id/011MICLN1G000000VTVG0001VTR8C1K7\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/sc-09-erkelenz-sc-09-erkelenz-mittelrhein/-/saison/2122/team-id/011MIDPGQK000000VTVG0001VTR8C1K7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/fc-wanderlust-suesterseel-fc-wanderlust-suesterseel-ev-mittelrhein/-/saison/2122/team-id/011MIDATJC000000VTVG0001VTR8C1K7\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/fc-randerath-porselen-fc-randerath-porselen-09-28-ev-mittelrhein/-/saison/2122/team-id/011MIBH8BS000000VTVG0001VTR8C1K7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/sv-golkrath-sv-golkrath-1930-ev-mittelrhein/-/saison/2122/team-id/011MIBASCC000000VTVG0001VTR8C1K7\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/sv-niersquelle-kuckum-sv-niersquelle-kuckum-1927-mittelrhein/-/saison/2122/team-id/011MI9UHTO000000VTVG0001VTR8C1K7\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/vfj-ratheim-vfj-ratheim-1912-ev-mittelrhein/-/saison/2122/team-id/011MIDPF78000000VTVG0001VTR8C1K7\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/fc-union-schafhausen-ii-fc-union-schafhausen-1910-ev-mittelrhein/-/saison/2122/team-id/011MIA3LQS000000VTVG0001VTR8C1K7\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/sc-selfkant-sc-selfkant-mittelrhein/-/saison/2122/team-id/01SC0LRGF4000000VS548985VVACT3U2\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/germania-hilfarth-germania-hilfarth-ev-mittelrhein/-/saison/2122/team-id/011MIA3LHK000000VTVG0001VTR8C1K7\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/tus-germania-kueckhoven-tus-germania-kueckhoven-1912-mittelrhein/-/saison/2122/team-id/011MIASJ30000000VTVG0001VTR8C1K7\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/%22gruen-weiss%22-sparta-gerderath-gruen-weiss-sparta-gerderath-mittelrhein/-/saison/2122/team-id/011MIBT4AG000000VTVG0001VTR8C1K7\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/sv-scherpenseel-grotenrath-sv-09-scherpenseel-mittelrhein/-/saison/2122/team-id/011MIBP9N8000000VTVG0001VTR8C1K7\""
+        ],
+        "14": [
+            "https://www.fussball.de/mannschaft/sv-breberen-sv-1920-breberen-ev-mittelrhein/-/saison/2122/team-id/011MICT0VG000000VTVG0001VTR8C1K7\""
+        ],
+        "15": [
+            "https://www.fussball.de/mannschaft/sv-waldfeucht-bocket-sv-waldfeucht-bocket-ev-mittelrhein/-/saison/2122/team-id/011MI9UJ3O000000VTVG0001VTR8C1K7\""
+        ],
+        "16": [
+            "https://www.fussball.de/mannschaft/svg-birgden-langbroich-schierwaldenrath-svg-birgden-langbroich-mittelrhein/-/saison/2122/team-id/01DSH9HRTC000000VV0AG811VTHT1M9L\""
+        ],
+        "17": [
+            "https://www.fussball.de/mannschaft/fc-germania-teveren-ii-fc-germania-teveren-mittelrhein/-/saison/2122/team-id/011MIBNGM4000000VTVG0001VTR8C1K7\""
+        ]
+    },
+    "\"Mittelrhein__135__00ES8GN018000004VV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/spvg-rheindoerfer-nord-i-spvg-rheindoerfer-koeln-nord-mittelrhein/-/saison/2122/team-id/011MIB1BF0000000VTVG0001VTR8C1K7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/djk-suedwest-koeln-djk-suedwest-1920-27-ev-koeln-mittelrhein/-/saison/2122/team-id/011MICDSP8000000VTVG0001VTR8C1K7\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/cfb-ford-koeln-niehl-cfb-ford-koeln-niehl-09-52-ev-mittelrhein/-/saison/2122/team-id/011MIAJ2SK000000VTVG0001VTR8C1K7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/sv-bergfried-leverkusen-sv-bergfried-leverkusen-mittelrhein/-/saison/2122/team-id/011MIA9C00000000VTVG0001VTR8C1K7\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/dsk-koeln-dsk-koeln-ev-mittelrhein/-/saison/2122/team-id/011MIBCLIO000000VTVG0001VTR8C1K7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/lindenthal-hohenlind-ii-sc-bor-lindenthal-hohenlind-mittelrhein/-/saison/2122/team-id/011MID40BG000000VTVG0001VTR8C1K7\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/tuerk-genc-tuerk-genc-sv-mittelrhein/-/saison/2122/team-id/011MI97DES000000VTVG0001VTR8C1K7\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/schwarz-weiss-sc-schwarz-weiss-koeln-1912-ev-mittelrhein/-/saison/2122/team-id/011MIB1APK000000VTVG0001VTR8C1K7\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/flittard-ii-spvg-1920-koeln-flittard-ev-mittelrhein/-/saison/2122/team-id/011MIEP0BS000000VTVG0001VTR8C1K7\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/fc-pesch-ii-fc-pesch-1956-ev-mittelrhein/-/saison/2122/team-id/012U486MFC000000VV0AG811VVETIMC3\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/schlebusch-sv-ii-sv-schlebusch-ev-1923-mittelrhein/-/saison/2122/team-id/011MIC2SAK000000VTVG0001VTR8C1K7\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/hitdorf-i-sportclub-1913-ev-hitdorf-mittelrhein/-/saison/2122/team-id/011MICDT0S000000VTVG0001VTR8C1K7\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/holweide-sc-holweide-1968-ev-mittelrhein/-/saison/2122/team-id/011MIF5RPC000000VTVG0001VTR8C1K7\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/sc-rondorf-sc-rondorf-1912-ev-mittelrhein/-/saison/2122/team-id/011MID3UJG000000VTVG0001VTR8C1K7\""
+        ],
+        "14": [
+            "https://www.fussball.de/mannschaft/deutz-05-ii-sportvereinigung-deutz-05-ev-mittelrhein/-/saison/2122/team-id/011MIBH824000000VTVG0001VTR8C1K7\""
+        ],
+        "15": [
+            "https://www.fussball.de/mannschaft/borussia-kalk-sc-borussia-05-ev-koeln-kalk-mittelrhein/-/saison/2122/team-id/011MI9IEMC000000VTVG0001VTR8C1K7\""
+        ],
+        "16": [
+            "https://www.fussball.de/mannschaft/prometheus-fc-prometheus-italia-mittelrhein/-/saison/2122/team-id/011MIAJ260000000VTVG0001VTR8C1K7\""
+        ]
+    },
+    "\"Mittelrhein__135__00ES8GN000000008VV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/horremer-sv-horremer-sv-1919-ev-mittelrhein/-/saison/2122/team-id/011MIB5VM4000000VTVG0001VTR8C1K7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/sv-weiden-sv-weiden-1914-75-ev-mittelrhein/-/saison/2122/team-id/011MI9IEKC000000VTVG0001VTR8C1K7\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/sc-elsdorf-sc-08-elsdorf-ev-mittelrhein/-/saison/2122/team-id/011MIBNH7S000000VTVG0001VTR8C1K7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/sc-fliesteden-sc-fliesteden-1931-ev-mittelrhein/-/saison/2122/team-id/011MIE0T1G000000VTVG0001VTR8C1K7\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/sv-loevenich-widdersdorf-sv-loevenich-widdersdorf-mittelrhein/-/saison/2122/team-id/011MICDTN0000000VTVG0001VTR8C1K7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/ssv-berzdorf-ssv-berzdorf-1929-ev-mittelrhein/-/saison/2122/team-id/011MICDT30000000VTVG0001VTR8C1K7\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/badorf-pingsdorf-spvg-badorf-pingsdorf-1929-31-mittelrhein/-/saison/2122/team-id/011MIA3MDK000000VTVG0001VTR8C1K7\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/sv-erfa-09-gymnich-i-sv-erfa-09-gymnich-ev-mittelrhein/-/saison/2122/team-id/011MIBH7TC000000VTVG0001VTR8C1K7\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/sv-niederaussem-sv-erftstolz-niederaussem-mittelrhein/-/saison/2122/team-id/011MI9O9AS000000VTVG0001VTR8C1K7\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/bcv-glesch-paffendorf-ii-bc-viktoria-glesch-paffendorf-mittelrhein/-/saison/2122/team-id/011MID3V4G000000VTVG0001VTR8C1K7\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/vfr-bachem-vfr-bachem-ev-1932-mittelrhein/-/saison/2122/team-id/011MIDAUL0000000VTVG0001VTR8C1K7\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/gksc-huerth-gksc-huerth-mittelrhein/-/saison/2122/team-id/011MI9UIR8000000VTVG0001VTR8C1K7\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/gw-brauweiler-2-gw-brauweiler-1961-ev-mittelrhein/-/saison/2122/team-id/01A72LOD5S000000VV0AG80NVTPF3GKI\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/bc-efferen-efferener-bc-1920-ev-mittelrhein/-/saison/2122/team-id/011MIEMP90000000VTVG0001VTR8C1K7\""
+        ],
+        "14": [
+            "https://www.fussball.de/mannschaft/pulheimer-sc-pulheimer-sc-1924-57-ev-mittelrhein/-/saison/2122/team-id/011MICDTKS000000VTVG0001VTR8C1K7\""
+        ]
+    },
+    "\"Mittelrhein__135__00ES8GN018000002VV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/hellas-troisdorf-hellas-troisdorf-1971-ev-mittelrhein/-/saison/2122/team-id/011MIB1ARC000000VTVG0001VTR8C1K7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/sv-lohmar-sv-1919-lohmar-e-v-mittelrhein/-/saison/2122/team-id/011MID3V10000000VTVG0001VTR8C1K7\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/1-fc-niederkassel-ii-1-fc-niederkassel-mittelrhein/-/saison/2122/team-id/016DQBL7RK000000VV0AG811VT38I3NS\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/tsv-wolsdorf-tsv-06-siegburg-wolsdorf-ev-mittelrhein/-/saison/2122/team-id/011MIBH7Q0000000VTVG0001VTR8C1K7\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/sv-menden-sv-menden-1912-e-v-mittelrhein/-/saison/2122/team-id/011MIDATLK000000VTVG0001VTR8C1K7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/umutspor-troisdorf-sv-umutspor-troisdorf-1991-ev-mittelrhein/-/saison/2122/team-id/01L1MS7UE4000000VV0AG811VV4PB99G\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/rw-huette-sv-rot-weiss-huette-ev-mittelrhein/-/saison/2122/team-id/011MI9IFOS000000VTVG0001VTR8C1K7\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/sv-allner-boedingen-sv-allner-boedingen-mittelrhein/-/saison/2122/team-id/011MID40OS000000VTVG0001VTR8C1K7\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/sv-muellekoven-sv-fortuna-muellekoven-1946-ev-mittelrhein/-/saison/2122/team-id/011MI9IFDS000000VTVG0001VTR8C1K7\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/sf-aegidienberg-sf-aegidienberg-1958-ev-mittelrhein/-/saison/2122/team-id/011MIDPH6S000000VTVG0001VTR8C1K7\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/sf-troisdorf-sportfreunde-troisdorf-05-ev-mittelrhein/-/saison/2122/team-id/011MI9IEP4000000VTVG0001VTR8C1K7\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/tus-birk-tus-1910-birk-ev-mittelrhein/-/saison/2122/team-id/011MIB608K000000VTVG0001VTR8C1K7\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/spvgg-hurst-rosbach-spvg-hurst-rosbach-1919-ev-mittelrhein/-/saison/2122/team-id/011MIBARTK000000VTVG0001VTR8C1K7\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/ssv-kaldauen-ssv-siegburg-kaldauen-1928-ev-mittelrhein/-/saison/2122/team-id/011MICDU5S000000VTVG0001VTR8C1K7\""
+        ],
+        "14": [
+            "https://www.fussball.de/mannschaft/asv-sankt-augustin-asv-sankt-augustin-1956-ev-mittelrhein/-/saison/2122/team-id/011MI97DIK000000VTVG0001VTR8C1K7\""
+        ],
+        "15": [
+            "https://www.fussball.de/mannschaft/fv-bad-honnef-ii-fv-bad-honnef-1919-ev-mittelrhein/-/saison/2122/team-id/016A5NADMS000000VV0AG811VSO6UDV8\""
+        ]
+    },
+    "\"Mittelrhein__136__00ES8GN000000006VV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/sc-alemannia-strass-sc-alemannia-strass-mittelrhein/-/saison/2122/team-id/011MIBR99O000000VTVG0001VTR8C1K7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/sg-nordeifel-sg-nordeifel-mittelrhein/-/saison/2122/team-id/011MIAMKIS000000VTVG0001VTR8C1K7\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/fc-golzheim-fc-golzheim-mittelrhein/-/saison/2122/team-id/011MIE6DCG000000VTVG0001VTR8C1K7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/sv-alemannia-pingsheim-sv-alemannia-pingsheim-mittelrhein/-/saison/2122/team-id/011MIB4KN8000000VTVG0001VTR8C1K7\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/vfvuj02-winden-ii-vfvuj-1902-winden-ev-mittelrhein/-/saison/2122/team-id/0168HDKSMO000000VV0AG811VSO6UDV8\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/vfr-vettweiss-vfr-vettweiss-mittelrhein/-/saison/2122/team-id/011MIAM81S000000VTVG0001VTR8C1K7\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/sg-neffeltal-sg-neffeltal-mittelrhein/-/saison/2122/team-id/011MIEKMK8000000VTVG0001VTR8C1K7\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/sc-1919-merzenich-sc-merzenich-mittelrhein/-/saison/2122/team-id/011MIEKMN4000000VTVG0001VTR8C1K7\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/fc-rhenania-girbelsrath-fc-rhenania-girbelsrath-mittelrhein/-/saison/2122/team-id/01SIOKBTDK000000VS548984VVMI9KVG\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/sv-kelz-sv-kelz-mittelrhein/-/saison/2122/team-id/011MIA3MRK000000VTVG0001VTR8C1K7\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/sg-voreifel-ii-sg-voreifel-mittelrhein/-/saison/2122/team-id/011MID1US4000000VTVG0001VTR8C1K7\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/jvc-columbia-03-drove-jvc-columbia-drove-mittelrhein/-/saison/2122/team-id/011MIFB1D4000000VTVG0001VTR8C1K7\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/bsv-gey-i-bsv-gey-mittelrhein/-/saison/2122/team-id/016GIFQN7C000000VV0AG80NVV638PD6\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/tus-schmidt-ii-tus-schmidt-1911-ev-mittelrhein/-/saison/2122/team-id/011MIAVLL4000000VTVG0001VTR8C1K7\""
+        ],
+        "14": [
+            "https://www.fussball.de/mannschaft/sv-kurdistan-dueren-ii-kurdistan-sv-mittelrhein/-/saison/2122/team-id/01SG8M0RP4000000VS548985VTSAFDL4\""
+        ]
+    },
+    "\"Mittelrhein__136__00ES8GN000000005VV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/fc-germania-bauchem-fc-germania-bauchem-mittelrhein/-/saison/2122/team-id/011MICLPP8000000VTVG0001VTR8C1K7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/sg-union-94-wuerm-lindern-ii-sg-union-94-wuerm-lindern-ev-mittelrhein/-/saison/2122/team-id/011MIANR5G000000VTVG0001VTR8C1K7\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/fsv-09-geilenkirchen-fsv-09-geilenkirchen-huenshoven-mittelrhein/-/saison/2122/team-id/011MICA56C000000VTVG0001VTR8C1K7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/vfl-uebach-boscheln-vfl-uebach-boscheln-mittelrhein/-/saison/2122/team-id/011MIDPF88000000VTVG0001VTR8C1K7\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/fc-rhenania-immendorf-fc-rhenania-immendorf-mittelrhein/-/saison/2122/team-id/011MI97CCO000000VTVG0001VTR8C1K7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/sv-1910-brachelen-sv-1910-brachelen-mittelrhein/-/saison/2122/team-id/011MI9DJ2G000000VTVG0001VTR8C1K7\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/bc-09-oberbruch-ii-bc-09-heinsberg-oberbruch-mittelrhein/-/saison/2122/team-id/011MIA9BQO000000VTVG0001VTR8C1K7\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/fc-concordia-stahe-niederbusch-fc-concordia-stahe-niederbusch-mittelrhein/-/saison/2122/team-id/011MIBAR7S000000VTVG0001VTR8C1K7\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/sc-selfkant-ii-sc-selfkant-mittelrhein/-/saison/2122/team-id/01SC0M6POG000000VS548985VVACT3U2\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/djk-gillrath-djk-blau-weiss-gillrath-mittelrhein/-/saison/2122/team-id/011MIA3MU8000000VTVG0001VTR8C1K7\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/vfr-uebach-palenberg-vfr-uebach-palenberg-mittelrhein/-/saison/2122/team-id/011MIANQP0000000VTVG0001VTR8C1K7\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/sg-gangelt-hastenrath-sg-gangelt-hastenrath-mittelrhein/-/saison/2122/team-id/011MIF5R30000000VTVG0001VTR8C1K7\""
+        ]
+    },
+    "\"Mittelrhein__137__00ES8GN018000001VV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/rossenbach-spvg-rossenbach-1930-ev-mittelrhein/-/saison/2122/team-id/011MIB0E5G000000VTVG0001VTR8C1K7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/loope-asc-loope-1954-ev-mittelrhein/-/saison/2122/team-id/011MIELB3K000000VTVG0001VTR8C1K7\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/tus-reichshof-1883-1929-ev-tus-reichshof-mittelrhein/-/saison/2122/team-id/011MIBE0I4000000VTVG0001VTR8C1K7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/sv-morsbach-sv-02-29-morsbach-ev-mittelrhein/-/saison/2122/team-id/011MI9O79G000000VTVG0001VTR8C1K7\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/ssv-hochwald-ssv-hochwald-1927-ev-mittelrhein/-/saison/2122/team-id/011MIAMT40000000VTVG0001VTR8C1K7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/ssv-homburg-nuembrecht-iii-ssv-homburg-nuembrecht-1919-mittelrhein/-/saison/2122/team-id/01DSV9M7IO000000VV0AG80NVTE6RV5L\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/vfr-marienhagen-ii-vfr-marienhagen-1930-ev-mittelrhein/-/saison/2122/team-id/011MIC7VU8000000VTVG0001VTR8C1K7\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/tus-elsenroth-2-tus-elsenroth-1913-ev-mittelrhein/-/saison/2122/team-id/011MIA8FUC000000VTVG0001VTR8C1K7\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/ssv-wildbergerhuette-odenspiel-ii-ssv-wildbergerhuette-odenspiel-mittelrhein/-/saison/2122/team-id/01AFOHAV84000000VV0AG811VUP9M3IJ\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/derschlag-ii-borussia-derschlag-mittelrhein/-/saison/2122/team-id/011MIC71NS000000VTVG0001VTR8C1K7\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/bsv-viktoria-bielstein-1920-ev-ii-bsv-viktoria-bielstein-1920-mittelrhein/-/saison/2122/team-id/011MI9NE70000000VTVG0001VTR8C1K7\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/dieringhausen-dieringhausen-mittelrhein/-/saison/2122/team-id/011MIF4G28000000VTVG0001VTR8C1K7\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/fc-wiedenest-othetal-ii-fc-wiedenest-othetal-mittelrhein/-/saison/2122/team-id/011MIA2NE8000000VTVG0001VTR8C1K7\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/sv-hermesdorf-sv-1926-hermesdorf-ev-mittelrhein/-/saison/2122/team-id/011MIBNH4K000000VTVG0001VTR8C1K7\""
+        ],
+        "14": [
+            "https://www.fussball.de/mannschaft/spvgg-holpe-steimelhagen-ii-spvg-holpe-steimelhagen-ev-mittelrhein/-/saison/2122/team-id/011MIETC64000000VTVG0001VTR8C1K7\""
+        ],
+        "15": [
+            "https://www.fussball.de/mannschaft/sv-schoenenbach-ii-sv-1920-schoenenbach-ev-mittelrhein/-/saison/2122/team-id/011MIDKVFG000000VTVG0001VTR8C1K7\""
+        ]
+    },
+    "\"Mittelrhein__137__00ES8GN018000003VV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/vfl-meckenheim-vfl-meckenheim-1920-ev-mittelrhein/-/saison/2122/team-id/011MIBSBLG000000VTVG0001VTR8C1K7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/sc-villip-sc-villip-1924-ev-mittelrhein/-/saison/2122/team-id/011MIE01O4000000VTVG0001VTR8C1K7\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/isc-alhilal-bonn-2-isc-alhilal-bonn-mittelrhein/-/saison/2122/team-id/01OU7RO608000000VV0AG811VSQ2DN07\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/sv-rot-weiss-queckenberg-ev-sv-rot-weiss-queckenberg-ev-mittelrhein/-/saison/2122/team-id/019OUJ96EC000000VV0AG80NVUQ1MD7G\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/sv-sw-merzbach-sv-sw-merzbach-1933-ev-mittelrhein/-/saison/2122/team-id/011MIA32J0000000VTVG0001VTR8C1K7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/tus-odendorf-1919-ev-tus-odendorf-1919-ev-mittelrhein/-/saison/2122/team-id/011MIBA9KC000000VTVG0001VTR8C1K7\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/sc-alt-ersdorf-ii-sc-altendorf-ersdorf-ev-mittelrhein/-/saison/2122/team-id/016TNSHJTK000000VV0AG811VUGT5C0G\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/sc-rheinbach-iii-1913-ev-sc-rheinbach-mittelrhein/-/saison/2122/team-id/027L893AMG000000VS5489B1VTUKARPV\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/sv-wormersdorf-ii-sv-wormersdorf-1946-ev-mittelrhein/-/saison/2122/team-id/011MIDVVPO000000VTVG0001VTR8C1K7\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/fc-flerzheim-2-fc-1920-flerzheim-ev-mittelrhein/-/saison/2122/team-id/01L1P8DSFC000000VV0AG811VV4PB99G\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/1-fc-godesberg-ii-1-fc-godesberg-mittelrhein/-/saison/2122/team-id/011MIBT45C000000VTVG0001VTR8C1K7\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/sv-adendorf-sv-alemannia-adendorf-ev-mittelrhein/-/saison/2122/team-id/011MICLN5K000000VTVG0001VTR8C1K7\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/fc-pech-ii-fc-pech-ev-mittelrhein/-/saison/2122/team-id/011MIARU6G000000VTVG0001VTR8C1K7\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/sv-niederbachem-iii-sv-niederbachem-1947-ev-mittelrhein/-/saison/2122/team-id/01OUKOC9I0000000VV0AG80NVT74RFIN\""
+        ],
+        "14": [
+            "https://www.fussball.de/mannschaft/tura-oberdrees-ii-tura-germania-1912-oberdrees-mittelrhein/-/saison/2122/team-id/011MI9U0AO000000VTVG0001VTR8C1K7\""
+        ]
+    },
+    "\"Mittelrhein__137__00ES8GN000000006VV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/sv-morschenich-sv-morschenich-mittelrhein/-/saison/2122/team-id/011MIEFL7S000000VTVG0001VTR8C1K7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/sportfreunde-1919-dueren-ii-sportfreunde-dueren-mittelrhein/-/saison/2122/team-id/011MI9RNNG000000VTVG0001VTR8C1K7\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/fc-golzheim-ii-fc-golzheim-mittelrhein/-/saison/2122/team-id/011MI9QQCK000000VTVG0001VTR8C1K7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/sv-alemannia-rommelsheim-sv-alemannia-rommelsheim-mittelrhein/-/saison/2122/team-id/02EPTD3BTG000000VS5489B2VVP292BR\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/sg-germania-binsfeld-1948-ev-sg-germania-binsfeld-mittelrhein/-/saison/2122/team-id/011MID1UOS000000VTVG0001VTR8C1K7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/sc-siegfried-sievernich-sc-siegfried-sievernich-mittelrhein/-/saison/2122/team-id/01A749O1CG000000VV0AG811VVR915Q9\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/spvg-sw-1896-dueren-iii-spvg-sw-dueren-1896-mittelrhein/-/saison/2122/team-id/01SKKGKLGK000000VS548985VU8O1RK1\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/sg-noervenich-hochkirchen-ii-sg-noervenich-hochkirchen-mittelrhein/-/saison/2122/team-id/027HJR5QTO000000VS5489B2VVDR0U48\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/bsv-wissersheim-bsv-wissersheim-mittelrhein/-/saison/2122/team-id/011MIF1CGS000000VTVG0001VTR8C1K7\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/sc-1919-merzenich-2-sc-merzenich-mittelrhein/-/saison/2122/team-id/02BDRS8RDG000000VS5489B2VU21J0QC\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/sg-nordeifel-ii-sg-nordeifel-mittelrhein/-/saison/2122/team-id/023T6F39DO000000VS548984VU2AAOK0\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/vfr-vettweiss-ii-vfr-vettweiss-mittelrhein/-/saison/2122/team-id/011MID8VHS000000VTVG0001VTR8C1K7\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/tus-08-langerwehe-iii-tus-08-langerwehe-mittelrhein/-/saison/2122/team-id/02EUEIGAGC000000VS5489B1VT0RKM5V\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/sg-neffeltal-ii-sg-neffeltal-mittelrhein/-/saison/2122/team-id/011MIACRRS000000VTVG0001VTR8C1K7\""
+        ],
+        "14": [
+            "https://www.fussball.de/mannschaft/sg-eschweiler-uef-frauwuellesheim-sv-eschweiler-uef-mittelrhein/-/saison/2122/team-id/023MD6VG40000000VS548984VVA56K3S\""
+        ]
+    },
+    "\"Mittelrhein__137__00ES8GN000000005VV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/sg-kraudorf-sueggerath-fsv-kraudorf-uetterath-mittelrhein/-/saison/2122/team-id/011MIDI140000000VTVG0001VTR8C1K7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/sv-breberen-ii-sv-1920-breberen-ev-mittelrhein/-/saison/2122/team-id/011MIA3MBO000000VTVG0001VTR8C1K7\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/1-fc-rheinland-uebach-palenberg-1fc-rheinland-uebach-palenberg-mittelrhein/-/saison/2122/team-id/011MIEHS04000000VTVG0001VTR8C1K7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/fsv-09-geilenkirchen-ii-fsv-09-geilenkirchen-huenshoven-mittelrhein/-/saison/2122/team-id/01DN119VK4000000VV0AG80NVSQ3PCMQ\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/sg-union-94-wuerm-lindern-iii-sg-union-94-wuerm-lindern-ev-mittelrhein/-/saison/2122/team-id/0206B3AG38000000VS548985VSL7HPD7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/fc-rhenania-immendorf-ii-fc-rhenania-immendorf-mittelrhein/-/saison/2122/team-id/011MIFD240000000VTVG0001VTR8C1K7\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/sv-scherpenseel-grotenrath-ii-sv-09-scherpenseel-mittelrhein/-/saison/2122/team-id/011MIANRQC000000VTVG0001VTR8C1K7\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/sc-selfkant-iii-sc-selfkant-mittelrhein/-/saison/2122/team-id/01SC0RTOOG000000VS548985VVACT3U2\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/tus-09-rw-frelenberg-tus-rot-weiss-frelenberg-mittelrhein/-/saison/2122/team-id/011MIAKEM0000000VTVG0001VTR8C1K7\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/fc-germania-bauchem-ii-fc-germania-bauchem-mittelrhein/-/saison/2122/team-id/01KOM7DVQG000000VV0AG811VSCPF12A\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/djk-gillrath-ii-djk-blau-weiss-gillrath-mittelrhein/-/saison/2122/team-id/011MIAJ1UG000000VTVG0001VTR8C1K7\""
+        ]
+    },
+    "\"Mittelrhein__137__00ES8GN018000004VV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/sv-westhoven-ensen-ii-sv-westhoven-ensen-1931-ev-mittelrhein/-/saison/2122/team-id/011MI9D8MO000000VTVG0001VTR8C1K7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/sc-leverkusen-sc-leverkusen-mittelrhein/-/saison/2122/team-id/0209JNVPNG000000VS548984VV30KF68\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/fc-germania-muelheim-fc-germania-1911-koeln-muelheim-mittelrhein/-/saison/2122/team-id/011MIFD0N8000000VTVG0001VTR8C1K7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/sv-mevlana-porz-mevlana-porz-mittelrhein/-/saison/2122/team-id/01AKQD57T4000000VV0AG811VU7COC6J\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/zuendorf-2-fc-germania-zuendorf-1913-ev-mittelrhein/-/saison/2122/team-id/01LRNJQGI4000000VV0AG811VT010VU5\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/adler-dellbrueck-ii-sv-adler-dellbrueck-1922-ev-mittelrhein/-/saison/2122/team-id/01OU9PU4B0000000VV0AG80NVT74RFIN\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/sc-brueck-07-herren-sc-koeln-brueck-07-ev-mittelrhein/-/saison/2122/team-id/012U338BPG000000VV0AG811VVETIMC3\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/borussia-kalk-iii-sc-borussia-05-ev-koeln-kalk-mittelrhein/-/saison/2122/team-id/01OTVC7BFC000000VV0AG80NVT74RFIN\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/gremberg-humboldt-ii-sv-gremberg-humboldt-60-62-ev-mittelrhein/-/saison/2122/team-id/011MIC2S60000000VTVG0001VTR8C1K7\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/holweide-2-sc-holweide-1968-ev-mittelrhein/-/saison/2122/team-id/01DSESHDT8000000VV0AG80NVTKCRAJO\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/fc-bosna-i-bosna-koeln-mittelrhein/-/saison/2122/team-id/012UDJH38S000000VV0AG80NVTJGN4F5\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/tus-langel-turn-und-spielverein-langel-mittelrhein/-/saison/2122/team-id/011MIASJF0000000VTVG0001VTR8C1K7\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/anadolu-koeln-anadolu-ev-koeln-mittelrhein/-/saison/2122/team-id/011MIC82BS000000VTVG0001VTR8C1K7\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/deutz-05-iv-sportvereinigung-deutz-05-ev-mittelrhein/-/saison/2122/team-id/01A8LI0S7K000000VV0AG80NVTPF3GKI\""
+        ],
+        "14": [
+            "https://www.fussball.de/mannschaft/tus-koeln-rrh-1874-ev-ii-tus-koeln-rrh-1874-ev-mittelrhein/-/saison/2122/team-id/01L6Q6GPI0000000VV0AG80NVT9OCUEA\""
+        ]
+    },
+    "\"Mittelrhein__138__00ES8GN000000005VV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/fc-wanderlust-suesterseel-ii-fc-wanderlust-suesterseel-ev-mittelrhein/-/saison/2122/team-id/011MIBT3G0000000VTVG0001VTR8C1K7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/vfl-uebach-boscheln-ii-vfl-uebach-boscheln-mittelrhein/-/saison/2122/team-id/011MI9NR8G000000VTVG0001VTR8C1K7\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/sv-1910-brachelen-ii-sv-1910-brachelen-mittelrhein/-/saison/2122/team-id/01SEB59A5C000000VS548984VVB63HJG\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/sg-kraudorf-sueggerath-ii-fsv-kraudorf-uetterath-mittelrhein/-/saison/2122/team-id/0203IL8OOK000000VS548984VSUCHKOE\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/vfr-uebach-palenberg-ii-vfr-uebach-palenberg-mittelrhein/-/saison/2122/team-id/011MIDPHC0000000VTVG0001VTR8C1K7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/tus-jahn-hilfarth-iii-tus-jahn-hilfarth-1920-ev-mittelrhein/-/saison/2122/team-id/02EONLPTN0000000VS5489B2VVP292BR\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/concordia-stahe-niederbusch-ii-fc-concordia-stahe-niederbusch-mittelrhein/-/saison/2122/team-id/01HAL42R0O000000VV0AG80NVU1T6GD1\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/fc-germania-bauchem-iii-fc-germania-bauchem-mittelrhein/-/saison/2122/team-id/02EK7402OS000000VS5489B2VVOABD77\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/djk-gillrath-iii-djk-blau-weiss-gillrath-mittelrhein/-/saison/2122/team-id/02ESVR6HF0000000VS5489B1VT0RKM5V\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/fc-randerath-porselen-iii-fc-randerath-porselen-09-28-ev-mittelrhein/-/saison/2122/team-id/01DON4KLP0000000VV0AG80NVV3R6KT9\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/victoria-schalbruch-fc-viktoria-schalbruch-1919-mittelrhein/-/saison/2122/team-id/01T4NJ90T8000000VS548984VUIO5GOR\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/sg-union-94-wuerm-lindern-iv-sg-union-94-wuerm-lindern-ev-mittelrhein/-/saison/2122/team-id/024TK0N81C000000VS548984VTKLVMDF\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/sc-selfkant-iv-sc-selfkant-mittelrhein/-/saison/2122/team-id/02EPTKU26C000000VS5489B1VT0RKM5V\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/sv-marienberg-sv-marienberg-mittelrhein/-/saison/2122/team-id/01DSJETG40000000VV0AG811VTHT1M9L\""
+        ]
+    },
+    "\"Mittelrhein__138__00ES8GN018000004VV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/ssv-leverkusen-alkenrath-2-ssv-leverkusen-alkenrath-mittelrhein/-/saison/2122/team-id/01SJ517JUO000000VS548984VVMI9KVG\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/spvg-porz-ii-spvg-porz-1919-ev-mittelrhein/-/saison/2122/team-id/02BBB1AANC000000VS5489B2VVDBHQQ7\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/adler-dellbrueck-iii-sv-adler-dellbrueck-1922-ev-mittelrhein/-/saison/2122/team-id/027I6DHUHC000000VS5489B1VUA37ON8\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/sc-holweide-3-sc-holweide-1968-ev-mittelrhein/-/saison/2122/team-id/01HFDFMKOC000000VV0AG811VTCV2DMO\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/buerrig-roland-ii-tus-1887-roland-buerrig-ev-mittelrhein/-/saison/2122/team-id/01P2GDSAB4000000VV0AG80NVTATMSCB\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/stammheim-2-tus-1889-ev-koeln-stammheim-mittelrhein/-/saison/2122/team-id/01SI3MMQ1S000000VS548985VV6960M6\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/spvg-wahn-grengel-herren-iii-spielvereinigung-wahn-grengel-mittelrhein/-/saison/2122/team-id/02BECULUK0000000VS5489B2VU21J0QC\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/rsv-rath-heumar-ii-rsv-rath-heumar-1920-ev-mittelrhein/-/saison/2122/team-id/011MI9UJ1G000000VTVG0001VTR8C1K7\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/prometheus-2-fc-prometheus-italia-mittelrhein/-/saison/2122/team-id/02BA1JMERC000000VS5489B1VU20GQ5T\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/fc-germania-muelheim-ii-fc-germania-1911-koeln-muelheim-mittelrhein/-/saison/2122/team-id/027N0NVM8O000000VS5489B1VTUKARPV\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/fc-energie-koeln-fc-energie-2008-koeln-ev-mittelrhein/-/saison/2122/team-id/016HSMR444000000VV0AG811VSBH97M6\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/rsv-urbach-ii-rsv-urbach-1912-ev-mittelrhein/-/saison/2122/team-id/011MI9IFA0000000VTVG0001VTR8C1K7\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/spiel-und-sport-1912-nippes-3-spiel-und-sport-1912-nippes-mittelrhein/-/saison/2122/team-id/02099JRN48000000VS548984VV30KF68\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/anadolu-koeln-2-anadolu-ev-koeln-mittelrhein/-/saison/2122/team-id/02EPN7ONF8000000VS5489B2VVP292BR\""
+        ],
+        "14": [
+            "https://www.fussball.de/mannschaft/sc-brueck-07-2-herren-2-sc-koeln-brueck-07-ev-mittelrhein/-/saison/2122/team-id/01A6L7N80K000000VV0AG811VVR915Q9\""
+        ],
+        "15": [
+            "https://www.fussball.de/mannschaft/raderthal-ii-raderthal-kickers-koeln-1991-mittelrhein/-/saison/2122/team-id/011MIBH8R8000000VTVG0001VTR8C1K7\""
+        ]
+    },
+    "\"Mittelrhein__138__00ES8GN000000008VV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/tsv-weiss-2-tsv-weiss-mittelrhein/-/saison/2122/team-id/01SII0C9LK000000VS548985VV6960M6\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/sc-1923-meschenich-2-sc-1923-meschenich-mittelrhein/-/saison/2122/team-id/027L3D59SO000000VS5489B1VTUKARPV\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/vfr-fischenich-1930-ev-ii-vfr-fischenich-1930-ev-mittelrhein/-/saison/2122/team-id/01A629C9US000000VV0AG811VVR915Q9\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/spvgg-1921-29-vochem-ev-spvgg-1921-29-vochem-ev-mittelrhein/-/saison/2122/team-id/02EPL0F19S000000VS5489B2VVP292BR\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/sc-kalscheuren-2-sc-kalscheuren-1949-ev-mittelrhein/-/saison/2122/team-id/01E003G26G000000VV0AG80NVSNQSIQV\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/tus-bw-koenigsdorf-3-tus-bw-koenigsdorf-1900-ev-mittelrhein/-/saison/2122/team-id/0203BQ1GCS000000VS548984VSUCHKOE\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/fc-schwadorf-iii-fc-schwadorf-1973-ev-mittelrhein/-/saison/2122/team-id/027JQ7E440000000VS5489B2VVDR0U48\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/badorf-pingsdorf-3-spvg-badorf-pingsdorf-1929-31-mittelrhein/-/saison/2122/team-id/02BAC926V4000000VS5489B2VSA89EN7\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/viktoria-gruhlwerk-2-fc-viktoria-1911-gruhlwerk-ev-mittelrhein/-/saison/2122/team-id/027KHKVQLG000000VS5489B1VUA37ON8\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/fc-rheinsued-koeln-iv-rheinsued-koeln-ev-mittelrhein/-/saison/2122/team-id/02BBGUKN4C000000VS5489B1VU20GQ5T\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/schwarz-weiss-friesheim-sc-schw-weiss-friesheim-mittelrhein/-/saison/2122/team-id/019QGGOKT8000000VV0AG811VSD9QV5S\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/fc-gw-etzweiler-ev-2-fc-etzweiler-ev-mittelrhein/-/saison/2122/team-id/02EUTA0PH4000000VS5489B1VT0RKM5V\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/sv-kendenich-2-sv-kendenich-1931-ev-mittelrhein/-/saison/2122/team-id/02EMMPNCHK000000VS5489B2VSAS84KM\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/sc-glessen-2-sc-schwarz-gelb-glessen-mittelrhein/-/saison/2122/team-id/02BCR0KDL0000000VS5489B1VTPVH7C1\""
+        ],
+        "14": [
+            "https://www.fussball.de/mannschaft/aris-wesseling-sv-aris-wesseling-mittelrhein/-/saison/2122/team-id/011MI9O8M0000000VTVG0001VTR8C1K7\""
+        ],
+        "15": [
+            "https://www.fussball.de/mannschaft/rg-wesseling-ii-rot-gelb-wesseling-1992-ev-mittelrhein/-/saison/2122/team-id/011MICLMCK000000VTVG0001VTR8C1K7\""
+        ],
+        "16": [
+            "https://www.fussball.de/mannschaft/sc-bruehl-3-sc-bruehl-mittelrhein/-/saison/2122/team-id/02BASJMFR0000000VS5489B2VVDBHQQ7\""
+        ]
+    }
+}

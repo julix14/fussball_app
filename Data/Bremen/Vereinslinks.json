@@ -1,0 +1,434 @@
+{
+    "\"Bremen__46__0123456789ABCDEF0123456700004090\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/bremer-sv-bremer-sv-bremen/-/saison/2122/team-id/011MIBA4BG000000VTVG0001VTR8C1K7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/brinkumer-sv-brinkumer-sv-bremen/-/saison/2122/team-id/011MICD344000000VTVG0001VTR8C1K7\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/osc-bremerhaven-osc-bremerhaven-bremen/-/saison/2122/team-id/011MI9HG18000000VTVG0001VTR8C1K7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/esc-geestemuende-escg-bremen/-/saison/2122/team-id/01L0BK838G000000VV0AG80NVVQMG8U7\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/ksv-vatan-sport-vatan-sport-bremen/-/saison/2122/team-id/011MIDGRIG000000VTVG0001VTR8C1K7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/bts-neustadt-bts-neustadt-bremen/-/saison/2122/team-id/011MIBGF8C000000VTVG0001VTR8C1K7\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/fc-union-60-fc-union-60-bremen/-/saison/2122/team-id/011MIB58FO000000VTVG0001VTR8C1K7\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/tus-komet-arsten-tus-komet-arsten-bremen/-/saison/2122/team-id/011MIFC0K0000000VTVG0001VTR8C1K7\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/leher-ts-leher-turnerschaft-bremen/-/saison/2122/team-id/011MICRUR4000000VTVG0001VTR8C1K7\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/tus-schwachhausen-tus-schwachhausen-bremen/-/saison/2122/team-id/011MIA8M40000000VTVG0001VTR8C1K7\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/sg-aumund-vegesack-sg-aumund-vegesack-bremen/-/saison/2122/team-id/011MIC22OC000000VTVG0001VTR8C1K7\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/sv-hemelingen-sv-hemelingen-bremen/-/saison/2122/team-id/011MI94KMK000000VTVG0001VTR8C1K7\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/sfl-bremerhaven-sfl-bremerhaven-bremen/-/saison/2122/team-id/011MICD2T0000000VTVG0001VTR8C1K7\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/sv-werder-bremen-iii-werder-bremen-bremen/-/saison/2122/team-id/011MIAVGRC000000VTVG0001VTR8C1K7\""
+        ],
+        "14": [
+            "https://www.fussball.de/mannschaft/blumenthaler-sv-blumenthaler-sv-bremen/-/saison/2122/team-id/011MIADHK0000000VTVG0001VTR8C1K7\""
+        ],
+        "15": [
+            "https://www.fussball.de/mannschaft/habenhauser-fv-habenhauser-fv-bremen/-/saison/2122/team-id/011MIE7E50000000VTVG0001VTR8C1K7\""
+        ],
+        "16": [
+            "https://www.fussball.de/mannschaft/sc-borgfeld-sc-borgfeld-bremen/-/saison/2122/team-id/011MIBS4PS000000VTVG0001VTR8C1K7\""
+        ],
+        "17": [
+            "https://www.fussball.de/mannschaft/bsc-hastedt-bsc-hastedt-bremen/-/saison/2122/team-id/011MIAN480000000VTVG0001VTR8C1K7\""
+        ]
+    },
+    "\"Bremen__47__0123456789ABCDEF0123456700004090\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/ts-woltmershausen-ts-woltmershausen-bremen/-/saison/2122/team-id/011MIBGG5S000000VTVG0001VTR8C1K7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/fc-huchting-fc-huchting-bremen/-/saison/2122/team-id/011MID2UR4000000VTVG0001VTR8C1K7\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/tuspo-surheide-tuspo-surheide-bremen/-/saison/2122/team-id/011MIDGRMC000000VTVG0001VTR8C1K7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/tura-bremen-tura-bremen-bremen/-/saison/2122/team-id/011MIEEJ0S000000VTVG0001VTR8C1K7\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/sv-grohn-sv-grohn-bremen/-/saison/2122/team-id/011MICRU6C000000VTVG0001VTR8C1K7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/sc-vahr-blockdiek-sc-vahr-blockdiek-bremen/-/saison/2122/team-id/011MIB0KEC000000VTVG0001VTR8C1K7\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/vfl-07-bremen-vfl-07-bremen/-/saison/2122/team-id/011MIAN4C4000000VTVG0001VTR8C1K7\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/1-fc-burg-1-fc-burg-bremen/-/saison/2122/team-id/011MID2U6O000000VTVG0001VTR8C1K7\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/sv-tuerkspor-sv-tuerkspor-bremen/-/saison/2122/team-id/011MIBA418000000VTVG0001VTR8C1K7\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/sv-lemwerder-sv-lemwerder-bremen/-/saison/2122/team-id/011MID9SO0000000VTVG0001VTR8C1K7\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/sc-weyhe-sc-weyhe-bremen/-/saison/2122/team-id/011MID8MT4000000VTVG0001VTR8C1K7\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/sc-borgfeld-ii-sc-borgfeld-bremen/-/saison/2122/team-id/011MI94J7S000000VTVG0001VTR8C1K7\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/tsv-melchiorshausen-tsv-melchiorshausen-bremen/-/saison/2122/team-id/011MIELLBK000000VTVG0001VTR8C1K7\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/ot-bremen-ot-bremen-bremen/-/saison/2122/team-id/011MIA2T2O000000VTVG0001VTR8C1K7\""
+        ],
+        "14": [
+            "https://www.fussball.de/mannschaft/tsv-hasenbueren-tsv-hasenbueren-bremen/-/saison/2122/team-id/011MIB593S000000VTVG0001VTR8C1K7\""
+        ],
+        "15": [
+            "https://www.fussball.de/mannschaft/djk-germania-blumenthal-djk-germania-blumenthal-bremen/-/saison/2122/team-id/011MI94JBO000000VTVG0001VTR8C1K7\""
+        ]
+    },
+    "\"Bremen__49__00ES8GMVI8000004VV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/sg-findorff-sg-findorff-bremen/-/saison/2122/team-id/011MIFBVJO000000VTVG0001VTR8C1K7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/tsv-wulsdorf-tsv-wulsdorf-bremen/-/saison/2122/team-id/011MIEEI6K000000VTVG0001VTR8C1K7\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/ats-buntentor-ats-buntentor-bremen/-/saison/2122/team-id/011MI94J9C000000VTVG0001VTR8C1K7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/tus-schwachhausen-ii-tus-schwachhausen-bremen/-/saison/2122/team-id/011MI9HEAC000000VTVG0001VTR8C1K7\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/sc-lehe-spaden-sc-lehe-spaden-bremen/-/saison/2122/team-id/011MIA8LGC000000VTVG0001VTR8C1K7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/atsv-sebaldsbrueck-atsv-sebaldsbrueck-bremen/-/saison/2122/team-id/011MI9HE8C000000VTVG0001VTR8C1K7\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/sv-eintracht-aumund-sv-eintracht-aumund-bremen/-/saison/2122/team-id/011MIDVPOC000000VTVG0001VTR8C1K7\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/sv-hemelingen-ii-sv-hemelingen-bremen/-/saison/2122/team-id/011MIA8L64000000VTVG0001VTR8C1K7\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/blumenthaler-sv-ii-blumenthaler-sv-bremen/-/saison/2122/team-id/011MICD2L8000000VTVG0001VTR8C1K7\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/leher-ts-ii-leher-turnerschaft-bremen/-/saison/2122/team-id/011MIE3ETS000000VTVG0001VTR8C1K7\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/tsv-farge-rekum-tsv-farge-rekum-bremen/-/saison/2122/team-id/011MICD2RK000000VTVG0001VTR8C1K7\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/tv-eiche-horn-tv-eiche-horn-bremen/-/saison/2122/team-id/011MI94JB0000000VTVG0001VTR8C1K7\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/sg-aumund-vegesack-ii-sg-aumund-vegesack-bremen/-/saison/2122/team-id/011MIBGFDO000000VTVG0001VTR8C1K7\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/tv-bremen-walle-1875-tv-bremen-walle-1875-bremen/-/saison/2122/team-id/011MIBA42G000000VTVG0001VTR8C1K7\""
+        ],
+        "14": [
+            "https://www.fussball.de/mannschaft/fc-roland-bremen-fc-roland-bremen-2011-bremen/-/saison/2122/team-id/01DED4QD7K000000VV0AG80NVUHG48M8\""
+        ]
+    },
+    "\"Bremen__51__00ES8GMVI8000003VV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/tus-komet-arsten-ii-tus-komet-arsten-bremen/-/saison/2122/team-id/011MIELKV4000000VTVG0001VTR8C1K7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/tsv-grolland-tsv-grolland-bremen/-/saison/2122/team-id/011MI9HG4K000000VTVG0001VTR8C1K7\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/svgo-bremen-svgo-bremen-bremen/-/saison/2122/team-id/011MICKLIK000000VTVG0001VTR8C1K7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/sv-werder-bremen-iv-werder-bremen-bremen/-/saison/2122/team-id/011MIC9H9S000000VTVG0001VTR8C1K7\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/cf-victoria-bremen-%2705-cf-victoria-bremen-%2705-bremen/-/saison/2122/team-id/011MICFSL8000000VTVG0001VTR8C1K7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/ksv-vatan-sport-ii-vatan-sport-bremen/-/saison/2122/team-id/011MIAICEC000000VTVG0001VTR8C1K7\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/sc-weyhe-ii-sc-weyhe-bremen/-/saison/2122/team-id/011MIAICM8000000VTVG0001VTR8C1K7\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/sportgemeinschaft-bremen-ost-ev-sgbo-bremen/-/saison/2122/team-id/01S7E4PP5C000000VS548984VS03293S\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/fc-oberneuland-ii-fc-oberneuland-bremen/-/saison/2122/team-id/01KSUF9SSK000000VV0AG811VUP4Q6U8\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/bts-neustadt-ii-bts-neustadt-bremen/-/saison/2122/team-id/011MICD3A8000000VTVG0001VTR8C1K7\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/tura-bremen-ii-tura-bremen-bremen/-/saison/2122/team-id/011MIAN4EG000000VTVG0001VTR8C1K7\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/vfl-07-bremen-ii-vfl-07-bremen/-/saison/2122/team-id/011MIA2S80000000VTVG0001VTR8C1K7\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/sg-marssel-sg-marssel-bremen/-/saison/2122/team-id/011MID9UC4000000VTVG0001VTR8C1K7\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/sg-findorff-ii-sg-findorff-bremen/-/saison/2122/team-id/011MID9TH4000000VTVG0001VTR8C1K7\""
+        ],
+        "14": [
+            "https://www.fussball.de/mannschaft/habenhauser-fv-ii-habenhauser-fv-bremen/-/saison/2122/team-id/011MIAICR0000000VTVG0001VTR8C1K7\""
+        ]
+    },
+    "\"Bremen__51__00ES8GMVI8000000VV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/tsv-imsum-i-tsv-imsum-bremen/-/saison/2122/team-id/011MIELL3G000000VTVG0001VTR8C1K7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/bremerhaven-united-bremerhaven-united-bremen/-/saison/2122/team-id/01SCJ6I5C0000000VS548984VVB63HJG\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/fc-sparta-bremerhaven-fc-sparta-bremen/-/saison/2122/team-id/011MIDOEOG000000VTVG0001VTR8C1K7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/osc-bremerhaven-ii-osc-bremerhaven-bremen/-/saison/2122/team-id/011MI9NIMS000000VTVG0001VTR8C1K7\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/sfl-bremerhaven-ii-sfl-bremerhaven-bremen/-/saison/2122/team-id/011MIADHF4000000VTVG0001VTR8C1K7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/tuspo-surheide-ii-tuspo-surheide-bremen/-/saison/2122/team-id/012NV1RAAC000000VV0AG811VUPV8FHO\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/tsv-imsum-ii-tsv-imsum-bremen/-/saison/2122/team-id/023OB69AIS000000VS548985VTNSAQK7\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/leher-ts-iii-leher-turnerschaft-bremen/-/saison/2122/team-id/02BB81BQQC000000VS5489B2VVDBHQQ7\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/geestemuender-tv-geestemuender-tv-bremen/-/saison/2122/team-id/01KT4SSI2K000000VV0AG80NVVRC6LS5\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/tsv-wulsdorf-ii-tsv-wulsdorf-bremen/-/saison/2122/team-id/023OFL9R1S000000VS548985VTNSAQK7\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/fc-sparta-bremerhaven-iii-fc-sparta-bremen/-/saison/2122/team-id/02F0PCF5D0000000VS5489B2VUBVHUE0\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/sfl-bremerhaven-iii-sfl-bremerhaven-bremen/-/saison/2122/team-id/01KTK71LPK000000VV0AG80NVVRC6LS5\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/sc-lehe-spaden-ii-sc-lehe-spaden-bremen/-/saison/2122/team-id/011MIBS530000000VTVG0001VTR8C1K7\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/osc-bremerhaven-iii-osc-bremerhaven-bremen/-/saison/2122/team-id/02BBI6RH10000000VS5489B1VU20GQ5T\""
+        ],
+        "14": [
+            "https://www.fussball.de/mannschaft/fc-sparta-bremerhaven-ii-fc-sparta-bremen/-/saison/2122/team-id/011MIBS53O000000VTVG0001VTR8C1K7\""
+        ]
+    },
+    "\"Bremen__52__00ES8GMVI8000003VV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/sv-werder-bremen-v-werder-bremen-bremen/-/saison/2122/team-id/011MIFARU8000000VTVG0001VTR8C1K7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/ot-bremen-ii-ot-bremen-bremen/-/saison/2122/team-id/011MICRUF4000000VTVG0001VTR8C1K7\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/fc-union-60-ii-fc-union-60-bremen/-/saison/2122/team-id/011MIF3HD8000000VTVG0001VTR8C1K7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/bremer-sv-ii-bremer-sv-bremen/-/saison/2122/team-id/011KQU8TB0000000VTVG0001VS5VM5QD\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/1-fc-burg-ii-1-fc-burg-bremen/-/saison/2122/team-id/01A37PV7KO000000VV0AG80NVV866B7J\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/tv-eiche-horn-ii-tv-eiche-horn-bremen/-/saison/2122/team-id/01HD7JMRKK000000VV0AG80NVSFL7E7T\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/fcr-1herren-fc-riensberg-11-e-v-bremen/-/saison/2122/team-id/01DS97KRUO000000VV0AG811VTPFGC7P\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/habenhauser-fv-iii-habenhauser-fv-bremen/-/saison/2122/team-id/011MIDODU4000000VTVG0001VTR8C1K7\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/djk-germania-blumenthal-ii-djk-germania-blumenthal-bremen/-/saison/2122/team-id/011MIATRS0000000VTVG0001VTR8C1K7\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/tsv-hasenbueren-ii-tsv-hasenbueren-bremen/-/saison/2122/team-id/016CRD873K000000VV0AG80NVU8CBD3E\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/fc-huchting-ii-fc-huchting-bremen/-/saison/2122/team-id/011MIDGQHG000000VTVG0001VTR8C1K7\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/tus-schwachhausen-iii-tus-schwachhausen-bremen/-/saison/2122/team-id/011MICD2KG000000VTVG0001VTR8C1K7\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/ats-buntentor-ii-ats-buntentor-bremen/-/saison/2122/team-id/011MIETK58000000VTVG0001VTR8C1K7\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/tsv-grolland-ii-tsv-grolland-bremen/-/saison/2122/team-id/011MIC78HO000000VTVG0001VTR8C1K7\""
+        ],
+        "14": [
+            "https://www.fussball.de/mannschaft/atsv-sebaldsbrueck-ii-atsv-sebaldsbrueck-bremen/-/saison/2122/team-id/011MICRTI4000000VTVG0001VTR8C1K7\""
+        ],
+        "15": [
+            "https://www.fussball.de/mannschaft/tsv-melchiorshausen-ii-tsv-melchiorshausen-bremen/-/saison/2122/team-id/011MIF9KUC000000VTVG0001VTR8C1K7\""
+        ]
+    },
+    "\"Bremen__53__00ES8GMVI8000003VV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/bts-neustadt-iii-bts-neustadt-bremen/-/saison/2122/team-id/011MID9TOG000000VTVG0001VTR8C1K7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/sv-mfandena-ev-svm-bremen/-/saison/2122/team-id/027B6PJ1G4000000VS5489B1VU8ROJMK\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/ts-woltmershausen-ii-ts-woltmershausen-bremen/-/saison/2122/team-id/011MIEEJ6K000000VTVG0001VTR8C1K7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/sc-vahr-blockdiek-ii-sc-vahr-blockdiek-bremen/-/saison/2122/team-id/01PND3HUOC000000VV0AG80NVT10ODKI\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/fc-huchting-iii-fc-huchting-bremen/-/saison/2122/team-id/011MI94ND4000000VTVG0001VTR8C1K7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/tv-bremen-walle-1875-ii-tv-bremen-walle-1875-bremen/-/saison/2122/team-id/01A2SRSOUK000000VV0AG811VSUI9EOJ\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/ats-buntentor-iii-ats-buntentor-bremen/-/saison/2122/team-id/016D1JDP9S000000VV0AG811VT38I3NS\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/bsc-hastedt-ii-bsc-hastedt-bremen/-/saison/2122/team-id/01S77LNDBS000000VS548985VUL18RL3\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/cf-victoria-bremen-%2705-ii-cf-victoria-bremen-%2705-bremen/-/saison/2122/team-id/011MIB397O000000VTVG0001VTR8C1K7\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/agsv-bremen-agsv-bremen/-/saison/2122/team-id/01OJARNL3K000000VV0AG811VSI5VLED\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/brinkumer-sv-ii-brinkumer-sv-bremen/-/saison/2122/team-id/011MIBGFKC000000VTVG0001VTR8C1K7\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/svgo-bremen-ii-svgo-bremen-bremen/-/saison/2122/team-id/011MIA8LD4000000VTVG0001VTR8C1K7\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/fc-roland-bremen-ii-fc-roland-bremen-2011-bremen/-/saison/2122/team-id/01DL5SO438000000VV0AG80NVV5JST0E\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/tura-bremen-iii-tura-bremen-bremen/-/saison/2122/team-id/01S29KFQPO000000VS548985VUK4LEQC\""
+        ],
+        "14": [
+            "https://www.fussball.de/mannschaft/habenhauser-fv-iv-habenhauser-fv-bremen/-/saison/2122/team-id/011MIE346G000000VTVG0001VTR8C1K7\""
+        ],
+        "15": [
+            "https://www.fussball.de/mannschaft/sg-aumund-vegesack-iii-sg-aumund-vegesack-bremen/-/saison/2122/team-id/011MIAHG84000000VTVG0001VTR8C1K7\""
+        ]
+    },
+    "\"Bremen__54__00ES8GMVI8000003VV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/fums-united-ev-fums-united-bremen/-/saison/2122/team-id/02F10MA7JK000000VS5489B1VT1H0S9M\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/fc-union-60-iii-fc-union-60-bremen/-/saison/2122/team-id/01A6M5JNUO000000VV0AG811VVR915Q9\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/svgo-bremen-iii-svgo-bremen-bremen/-/saison/2122/team-id/027IUNEJK0000000VS5489B2VVDR0U48\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/tus-komet-arsten-iii-tus-komet-arsten-bremen/-/saison/2122/team-id/011MI9NIF8000000VTVG0001VTR8C1K7\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/tus-schwachhausen-iv-tus-schwachhausen-bremen/-/saison/2122/team-id/02BCPO8LIS000000VS5489B2VU21J0QC\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/ats-buntentor-iv-ats-buntentor-bremen/-/saison/2122/team-id/01A43TGEBO000000VV0AG80NVV866B7J\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/sv-mfandena-ev-ii-svm-bremen/-/saison/2122/team-id/027Q67BOOO000000VS5489B1VVIQNL7N\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/fc-oberneuland-iii-fc-oberneuland-bremen/-/saison/2122/team-id/01OJ0AFGO0000000VV0AG811VSI5VLED\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/sv-hemelingen-iii-sv-hemelingen-bremen/-/saison/2122/team-id/02673ARR5O000000VS548985VUUNK3D5\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/sc-borgfeld-iii-sc-borgfeld-bremen/-/saison/2122/team-id/01OJVILDPO000000VV0AG80NVUMMG6FL\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/ts-woltmershausen-iii-ts-woltmershausen-bremen/-/saison/2122/team-id/0202OGEDB4000000VS548984VSUCHKOE\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/sg-findorff-iii-sg-findorff-bremen/-/saison/2122/team-id/016HADNNN8000000VV0AG811VVBQE8G0\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/polizei-sv-polizei-sv-bremen/-/saison/2122/team-id/01KU924L3C000000VV0AG811VUP4Q6U8\""
+        ]
+    },
+    "\"Bremen__55__00ES8GMVI8000003VV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/sv-tuerkspor-ii-sv-tuerkspor-bremen/-/saison/2122/team-id/027FDQ1MHS000000VS5489B2VVB7EFSC\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/sc-vahr-blockdiek-iii-sc-vahr-blockdiek-bremen/-/saison/2122/team-id/02BI1RIBMS000000VS5489B2VU21J0QC\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/sv-lemwerder-ii-sv-lemwerder-bremen/-/saison/2122/team-id/028K89CI2K000000VS5489B1VVPQ8VEG\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/sv-eintracht-aumund-2-sv-eintracht-aumund-bremen/-/saison/2122/team-id/02F0AOCKH8000000VS5489B2VUBVHUE0\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/djk-germania-blumenthal-iii-djk-germania-blumenthal-bremen/-/saison/2122/team-id/02F1DS75S8000000VS5489B2VUBVHUE0\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/sv-grohn-ii-sv-grohn-bremen/-/saison/2122/team-id/02BE8K7R2K000000VS5489B2VU21J0QC\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/atsv-sebaldsbrueck-iii-atsv-sebaldsbrueck-bremen/-/saison/2122/team-id/02FALHCAGS000000VS5489B1VTI55LVG\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/fcr-2herren-fc-riensberg-11-e-v-bremen/-/saison/2122/team-id/01DSUGLJD4000000VV0AG811VSOLMNRU\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/1-fc-burg-iv-1-fc-burg-bremen/-/saison/2122/team-id/02EU49HE48000000VS5489B2VVP292BR\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/tus-komet-arsten-iv-tus-komet-arsten-bremen/-/saison/2122/team-id/027C6M432K000000VS5489B1VU8ROJMK\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/ot-bremen-iii-ot-bremen-bremen/-/saison/2122/team-id/02BD8BHGTK000000VS5489B1VTPVH7C1\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/sg-findorff-iv-sg-findorff-bremen/-/saison/2122/team-id/029V42SKB0000000VS5489B2VUJ36HRO\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/1-fc-burg-iii-1-fc-burg-bremen/-/saison/2122/team-id/0202DO6STC000000VS548985VU1T928D\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/atsv-sebaldsbrueck-iv-atsv-sebaldsbrueck-bremen/-/saison/2122/team-id/02H077J6T4000000VS5489B2VSLHHRVG\""
+        ]
+    }
+}

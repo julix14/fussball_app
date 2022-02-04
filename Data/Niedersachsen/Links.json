@@ -1,0 +1,704 @@
+{
+    "\"Niedersachsen__597__0123456789ABCDEF0123456700004100\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/oberliga-niedersachsen-hannover-braunschweig-niedersachsen-oberliga-niedersachsen-herren-saison2122-niedersachsen/-/staffel/02EU6G159C000008VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/oberliga-niedersachsen-weser-ems-lueneburg-niedersachsen-oberliga-niedersachsen-herren-saison2122-niedersachsen/-/staffel/02EU6G150C000009VS5489B3VUK1A2F6-G"
+    ],
+    "\"Niedersachsen__31__00ES8GMVD8000006VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/landesliga-braunschweig-bezirk-braunschweig-landesliga-herren-saison2122-niedersachsen/-/staffel/02ETH7E2RG00000AVS5489B4VT8SVH36-G"
+    ],
+    "\"Niedersachsen__31__00ES8GMVC0000007VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/landesliga-hannover-st-nord-bezirk-hannover-landesliga-herren-saison2122-niedersachsen/-/staffel/02ETRKD764000006VS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/landesliga-hannover-st-sued-bezirk-hannover-landesliga-herren-saison2122-niedersachsen/-/staffel/02ETRKD7K4000006VS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/landesliga-hannover-abstieg-bezirk-hannover-landesliga-herren-saison2122-niedersachsen/-/staffel/02GDTDFFCG000004VS5489B3VVDCNE1P-G",
+        "_https://www.fussball.de/spieltagsuebersicht/landesliga-hannover-aufstieg-bezirk-hannover-landesliga-herren-saison2122-niedersachsen/-/staffel/02GDTD0AP0000004VS5489B3VVDCNE1P-G"
+    ],
+    "\"Niedersachsen__31__00ES8GMVAO000003VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/landesliga-lueneburg-quali-1-bezirk-lueneburg-landesliga-herren-saison2122-niedersachsen/-/staffel/02F0VU9JAG000009VS5489B3VSIM4HPC-G",
+        "_https://www.fussball.de/spieltagsuebersicht/landesliga-lueneburg-quali-2-bezirk-lueneburg-landesliga-herren-saison2122-niedersachsen/-/staffel/02F0VU9JMC00000AVS5489B3VSIM4HPC-G"
+    ],
+    "\"Niedersachsen__31__00ES8GMV70000006VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/landesliga-weser-ems-staffel-i-bezirk-weser-ems-landesliga-herren-saison2122-niedersachsen/-/staffel/02F04K98D000000CVS5489B3VSIM4HPC-G",
+        "_https://www.fussball.de/spieltagsuebersicht/landesliga-weser-ems-staffel-ii-bezirk-weser-ems-landesliga-herren-saison2122-niedersachsen/-/staffel/02F04K98Q0000006VS5489B3VSIM4HPC-G"
+    ],
+    "\"Niedersachsen__32__00ES8GMVD8000006VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-1-staffel-a-braunschweig-bezirk-braunschweig-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02EV4LPJ9O000004VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-1-staffel-b-braunschweig-bezirk-braunschweig-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02EV4M4OO0000005VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-1-staffel-c-braunschweig-bezirk-braunschweig-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02EV4M8NC0000005VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-2-staffel-a-braunschweig-bezirk-braunschweig-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02EV4MD4AK000005VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-2-staffel-b-braunschweig-bezirk-braunschweig-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02EV4MJJSK000005VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-2-staffel-c-braunschweig-bezirk-braunschweig-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02EV4MMND8000000VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-3-staffel-a-braunschweig-bezirk-braunschweig-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02EV4MQIB4000005VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-3-staffel-b-braunschweig-bezirk-braunschweig-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02EV4MUSUG000005VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-3-staffel-c-braunschweig-bezirk-braunschweig-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02EV4N32F8000005VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-4-staffel-a-braunschweig-bezirk-braunschweig-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02EV4NAJM8000005VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-4-staffel-b-braunschweig-bezirk-braunschweig-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02EV4NFNNC000005VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-4-staffel-c-braunschweig-bezirk-braunschweig-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02EV4NIBI0000005VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-1-abstiegsrunde-bezirk-braunschweig-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02G4F1V2G4000002VS5489B3VVKAJ51L-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-1-meisterrunde-bezirk-braunschweig-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02G4F1NT5S000004VS5489B3VVKAJ51L-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-2-abstiegsrunde-bezirk-braunschweig-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02G4F2A5RO000001VS5489B3VVKAJ51L-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-2-meisterrunde-bezirk-braunschweig-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02G4F25M8K000004VS5489B3VVKAJ51L-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-3-abstiegsrunde-bezirk-braunschweig-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02G4F2JC74000004VS5489B3VVKAJ51L-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-3-meisterrunde-bezirk-braunschweig-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02G4F2FG84000002VS5489B3VVKAJ51L-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-4-abstiegsrunde-bezirk-braunschweig-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02G4F2T0PG000004VS5489B3VVKAJ51L-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-4-meisterrunde-bezirk-braunschweig-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02G4F2N2G8000004VS5489B3VVKAJ51L-G"
+    ],
+    "\"Niedersachsen__32__00ES8GMVC0000007VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-hannover-staffel-1-bezirk-hannover-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02ESS8KIM4000006VS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-hannover-staffel-10-bezirk-hannover-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02ESS8KK6C000006VS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-hannover-staffel-2-bezirk-hannover-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02ESS8KIUO000007VS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-hannover-staffel-3-bezirk-hannover-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02ESS8KJ68000006VS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-hannover-staffel-4-bezirk-hannover-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02ESS8KJ9S000007VS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-hannover-staffel-5-bezirk-hannover-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02ESS8KJE8000005VS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-hannover-staffel-6-bezirk-hannover-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02ESS8KJHS000006VS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-hannover-staffel-7-bezirk-hannover-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02ESS8KJQC000006VS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-hannover-staffel-8-bezirk-hannover-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02ESS8KJV0000005VS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-hannover-staffel-9-bezirk-hannover-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02ESS8KK2C000006VS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-hannover-staffel-a1-bezirk-hannover-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02GDT0EBS8000004VS5489B3VVDCNE1P-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-hannover-staffel-a2-bezirk-hannover-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02GDT1AD54000004VS5489B3VVDCNE1P-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-hannover-staffel-b1-bezirk-hannover-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02GDT1G2SK000004VS5489B3VVDCNE1P-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-hannover-staffel-b2-bezirk-hannover-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02GDT2LS9C000004VS5489B3VVDCNE1P-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-hannover-staffel-b3-bezirk-hannover-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02GDT3FJBC000004VS5489B3VVDCNE1P-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-hannover-staffel-b4-bezirk-hannover-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02GDT3T8O4000003VS5489B3VVDCNE1P-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-hannover-staffel-b5-bezirk-hannover-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02GDT41J24000004VS5489B3VVDCNE1P-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-hannover-staffel-b6-bezirk-hannover-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02GDT4EBKO000004VS5489B3VVDCNE1P-G"
+    ],
+    "\"Niedersachsen__32__00ES8GMVAO000003VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-lueneburg-1-staffel-1-bezirk-lueneburg-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02F0VSG03O00000AVS5489B3VSIM4HPC-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-lueneburg-1-staffel-2-bezirk-lueneburg-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02F0VSG1MO000009VS5489B3VSIM4HPC-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-lueneburg-2-staffel-1-bezirk-lueneburg-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02F0VSG0QG00000AVS5489B3VSIM4HPC-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-lueneburg-2-staffel-2-bezirk-lueneburg-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02F0VSG1UK00000AVS5489B3VSIM4HPC-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-lueneburg-3-staffel-1-bezirk-lueneburg-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02F0VSG12S00000AVS5489B3VSIM4HPC-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-lueneburg-3-staffel-2-bezirk-lueneburg-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02F0VSG28G00000AVS5489B3VSIM4HPC-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-lueneburg-4-staffel-1-bezirk-lueneburg-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02F0VSG1C400000AVS5489B3VSIM4HPC-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-lueneburg-4-staffel-2-bezirk-lueneburg-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02F0VSG2DO00000AVS5489B3VSIM4HPC-G"
+    ],
+    "\"Niedersachsen__32__00ES8GMV70000006VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-weser-ems-1-a-8er-bezirk-weser-ems-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02F14G7LC800000CVS5489B3VSIM4HPC-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-weser-ems-1-b-10er-bezirk-weser-ems-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02F14G7M1C00000DVS5489B3VSIM4HPC-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-weser-ems-2-a-8er-bezirk-weser-ems-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02F1F1QFKS00000CVS5489B4VS0OFO4E-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-weser-ems-2-b-10er-bezirk-weser-ems-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02F1F1QG7G00000CVS5489B4VS0OFO4E-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-weser-ems-3-bezirk-weser-ems-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02F04TDCS8000005VS5489B3VSIM4HPC-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-weser-ems-4-bezirk-weser-ems-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02ET69VDCO000008VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/bezirksliga-weser-ems-5-bezirk-weser-ems-bezirksliga-herren-saison2122-niedersachsen/-/staffel/02ET6A4VQC000005VS5489B3VUK1A2F6-G"
+    ],
+    "\"Niedersachsen__36__00ES8GMV70000003VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-grafschaft-bentheim-kreis-bentheim-kreisliga-herren-saison2122-niedersachsen/-/staffel/02F25769D0000004VS5489B3VT1OC9J9-G"
+    ],
+    "\"Niedersachsen__36__00ES8GMVD8000005VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-braunschweig-kreis-braunschweig-kreisliga-herren-saison2122-niedersachsen/-/staffel/02F2U98008000004VS5489B4VS0OFO4E-G"
+    ],
+    "\"Niedersachsen__36__00ES8GMVAO000002VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-celle-staffel-i-kreis-celle-kreisliga-herren-saison2122-niedersachsen/-/staffel/02ETSL4QJC000004VS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-celle-staffel-ii-kreis-celle-kreisliga-herren-saison2122-niedersachsen/-/staffel/02ETSM33DC000004VS5489B4VT8SVH36-G"
+    ],
+    "\"Niedersachsen__36__00ES8GMV70000002VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-cloppenburg-kreis-cloppenburg-kreisliga-herren-saison2122-niedersachsen/-/staffel/02EUEDUJA400000CVS5489B3VUK1A2F6-G"
+    ],
+    "\"Niedersachsen__36__00ES8GMVAO000001VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-cuxhaven-staffel-i-kreis-cuxhaven-kreisliga-herren-saison2122-niedersachsen/-/staffel/02ES8O9NFS000000VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-cuxhaven-staffell-ii-kreis-cuxhaven-kreisliga-herren-saison2122-niedersachsen/-/staffel/02ES8O9NRS000008VS5489B3VUK1A2F6-G"
+    ],
+    "\"Niedersachsen__36__00ES8GMVC0000006VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-dh-nord-kreis-diepholz-kreisliga-herren-saison2122-niedersachsen/-/staffel/02F2A6P57O00000EVS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-dh-sued-kreis-diepholz-kreisliga-herren-saison2122-niedersachsen/-/staffel/02F2A6P5N4000007VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-abstiegsrunde-kreis-diepholz-kreisliga-herren-saison2122-niedersachsen/-/staffel/02GM6IIM70000000VS5489B3VVNIQTT0-G",
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-aufstiegsrunde-kreis-diepholz-kreisliga-herren-saison2122-niedersachsen/-/staffel/02GM6HFT7G000004VS5489B3VVNIQTT0-G"
+    ],
+    "\"Niedersachsen__36__00ES8GMV38000000VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/opti-moebel-wilken-liga-staffel-a-kreis-emsland-kreisliga-herren-saison2122-niedersachsen/-/staffel/02E8I1O50O000009VS5489B3VT07RQKQ-G",
+        "_https://www.fussball.de/spieltagsuebersicht/opti-moebel-wilken-liga-staffel-b-kreis-emsland-kreisliga-herren-saison2122-niedersachsen/-/staffel/02E6DAN3JK000009VS5489B3VUMFDP4R-G"
+    ],
+    "\"Niedersachsen__36__00ES8GMVD8000004VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-a-kreis-gifhorn-kreisliga-herren-saison2122-niedersachsen/-/staffel/02F5R7PDK0000004VS5489B3VTRLPP90-G",
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-b-kreis-gifhorn-kreisliga-herren-saison2122-niedersachsen/-/staffel/02F5R8EMIK000004VS5489B3VTRLPP90-G"
+    ],
+    "\"Niedersachsen__36__01GT77M4KK000000VTVG0001VTC48VI3\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-a-kreis-goettingen-osterode-kreisliga-herren-saison2122-niedersachsen/-/staffel/02ERTUKS6K00000EVS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-b-kreis-goettingen-osterode-kreisliga-herren-saison2122-niedersachsen/-/staffel/02ERTUKSUC00000CVS5489B4VT8SVH36-G"
+    ],
+    "\"Niedersachsen__36__00ES8GMVC0000005VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-hameln-pyrmont-kreis-hameln-pyrmont-kreisliga-herren-saison2122-niedersachsen/-/staffel/02EUEPFE4G000004VS5489B3VUK1A2F6-G"
+    ],
+    "\"Niedersachsen__36__00ES8GMV7000000EVV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-harburg-staffel-1-kreis-harburg-kreisliga-herren-saison2122-niedersachsen/-/staffel/02F1LK99JC000005VS5489B4VS0OFO4E-G",
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-harburg-staffel-2-kreis-harburg-kreisliga-herren-saison2122-niedersachsen/-/staffel/02F1LKKPNO000004VS5489B4VS0OFO4E-G",
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-harburg-abstiegsrunde-kreis-harburg-kreisliga-herren-saison2122-niedersachsen/-/staffel/02GSTFUU1O000004VS5489B3VTU8R5RA-G",
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-harburg-meisterrunde-kreis-harburg-kreisliga-herren-saison2122-niedersachsen/-/staffel/02GSTFERBK000003VS5489B3VTU8R5RA-G"
+    ],
+    "\"Niedersachsen__36__0227FI1258000000VTVG0001VSTPT9U2\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-heide-wendland-st-1-kreis-heide-wendland-kreisliga-herren-saison2122-niedersachsen/-/staffel/02F3R9URIC000003VS5489B4VVD6BKS7-G",
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-heide-wendland-st-2-kreis-heide-wendland-kreisliga-herren-saison2122-niedersachsen/-/staffel/02F3RABEIK000004VS5489B4VVD6BKS7-G"
+    ],
+    "\"Niedersachsen__36__00ES8GMVAO000000VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-heidekreis-kreis-heidekreis-kreisliga-herren-saison2122-niedersachsen/-/staffel/02F32KJ0OC000003VS5489B4VS0OFO4E-G"
+    ],
+    "\"Niedersachsen__36__00ES8GMVD8000001VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-helmstedt-staffel-1-kreis-helmstedt-kreisliga-herren-saison2122-niedersachsen/-/staffel/02F223RE30000004VS5489B4VS0OFO4E-G",
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-helmstedt-staffel-2-kreis-helmstedt-kreisliga-herren-saison2122-niedersachsen/-/staffel/02F224BQAG000004VS5489B4VS0OFO4E-G"
+    ],
+    "\"Niedersachsen__36__00ES8GMVC0000002VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-a-hildesheim-kreis-hildesheim-kreisliga-herren-saison2122-niedersachsen/-/staffel/02F134JMDO000008VS5489B4VSOE7V84-G",
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-b-hildesheim-kreis-hildesheim-kreisliga-herren-saison2122-niedersachsen/-/staffel/02F134JMPC000009VS5489B4VSOE7V84-G"
+    ],
+    "\"Niedersachsen__36__00ES8GMVC0000001VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-holzminden-kreis-holzminden-kreisliga-herren-saison2122-niedersachsen/-/staffel/02F2L36H2C000004VS5489B3VT1OC9J9-G"
+    ],
+    "\"Niedersachsen__36__0227FI140K000000VTVG0001VSTPT9U2\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-jwh-qualifikationsrunde-kreis-jade-weser-hunte-kreisliga-herren-saison2122-niedersachsen/-/staffel/02F4L2PPEK000004VS5489B3VTRLPP90-G"
+    ],
+    "\"Niedersachsen__36__00ES8GMVC0000000VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-nienburg-kreis-nienburg-kreisliga-herren-saison2122-niedersachsen/-/staffel/02EUA8CV9O000004VS5489B3VUK1A2F6-G"
+    ],
+    "\"Niedersachsen__36__01CQI7FGDG000000VTVG0001VTKE9GKI\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/nordharzliga-staffel-1-kreis-nordharz-kreisliga-herren-saison2122-niedersachsen/-/staffel/02EOK2DRSS000000VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/nordharzliga-staffel-2-kreis-nordharz-kreisliga-herren-saison2122-niedersachsen/-/staffel/02EOK2DT0O00000OVS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/nordharzliga-staffel-3-kreis-nordharz-kreisliga-herren-saison2122-niedersachsen/-/staffel/02EOK2DTEC00000DVS5489B3VUK1A2F6-G"
+    ],
+    "\"Niedersachsen__36__00ES8GMVD8000000VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-staffel-1-kreis-northeim-einbeck-kreisliga-herren-saison2122-niedersachsen/-/staffel/02F0FE7OSO000004VS5489B4VSOE7V84-G",
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-staffel-2-kreis-northeim-einbeck-kreisliga-herren-saison2122-niedersachsen/-/staffel/02F0FLR03C000004VS5489B4VSOE7V84-G"
+    ],
+    "\"Niedersachsen__36__01D5QBJDJ0000000VTVG0001VSR2902F\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-iv-oll-del-kreis-oldenburg-l-delmenhorst-kreisliga-herren-saison2122-niedersachsen/-/staffel/02EGUC3LEG000004VS5489B3VT9UQ08G-G"
+    ],
+    "\"Niedersachsen__36__028TGSTTUK000000VS5489B1VTQF76TK\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-osnabrueck-staffel-a-kreis-osnabrueck-kreisliga-herren-saison2122-niedersachsen/-/staffel/02EP21CFSO000004VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-osnabrueck-staffel-b-kreis-osnabrueck-kreisliga-herren-saison2122-niedersachsen/-/staffel/02EP21L6R8000004VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-osnabrueck-staffel-c-kreis-osnabrueck-kreisliga-herren-saison2122-niedersachsen/-/staffel/02EP21RQ84000004VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-osnabrueck-staffel-d-kreis-osnabrueck-kreisliga-herren-saison2122-niedersachsen/-/staffel/02EP221P2S000004VS5489B3VUK1A2F6-G"
+    ],
+    "\"Niedersachsen__36__00ES8GMV7000000BVV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-osterholz-staffel-a-kreis-osterholz-kreisliga-herren-saison2122-niedersachsen/-/staffel/02EUQKOCDG000004VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-osterholz-staffel-b-kreis-osterholz-kreisliga-herren-saison2122-niedersachsen/-/staffel/02EUQKRQ8O000004VS5489B3VUK1A2F6-G"
+    ],
+    "\"Niedersachsen__36__01UKIHT698000000VTVG0001VTA18D1N\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/ostfrieslandliga--staffel-1-kreis-ostfriesland-kreisliga-herren-saison2122-niedersachsen/-/staffel/02F2496S3O000007VS5489B4VS0OFO4E-G",
+        "_https://www.fussball.de/spieltagsuebersicht/ostfrieslandliga--staffel-2-kreis-ostfriesland-kreisliga-herren-saison2122-niedersachsen/-/staffel/02F2496SG0000007VS5489B4VS0OFO4E-G"
+    ],
+    "\"Niedersachsen__36__00ES8GMVC000000BVV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-peine-st-a-kreis-peine-kreisliga-herren-saison2122-niedersachsen/-/staffel/02EVI0CHIO000004VS5489B4VSOE7V84-G",
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-peine-st-b-kreis-peine-kreisliga-herren-saison2122-niedersachsen/-/staffel/02EVI0GRPC000004VS5489B4VSOE7V84-G"
+    ],
+    "\"Niedersachsen__36__01UKIHT4TK000000VTVG0001VTA18D1N\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-region-hannover-staffel-5-kreis-region-hannover-kreisliga-herren-saison2122-niedersachsen/-/staffel/02EU3E3VA8000007VS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-region-hannover-staffel-1-kreis-region-hannover-kreisliga-herren-saison2122-niedersachsen/-/staffel/02EU3E3U9C000007VS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-region-hannover-staffel-2-kreis-region-hannover-kreisliga-herren-saison2122-niedersachsen/-/staffel/02EU3E3UPC000007VS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-region-hannover-staffel-3-kreis-region-hannover-kreisliga-herren-saison2122-niedersachsen/-/staffel/02EU3E3UV8000008VS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-region-hannover-staffel-4-kreis-region-hannover-kreisliga-herren-saison2122-niedersachsen/-/staffel/02EU3E3V4O000008VS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-region-hannover-staffel-6-kreis-region-hannover-kreisliga-herren-saison2122-niedersachsen/-/staffel/02EU3E3VE4000008VS5489B4VT8SVH36-G"
+    ],
+    "\"Niedersachsen__36__00ES8GMV7000000AVV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-kreis-rotenburg-kreisliga-herren-saison2122-niedersachsen/-/staffel/02EVCM70CK000003VS5489B4VVIOJ6AP-G"
+    ],
+    "\"Niedersachsen__36__00ES8GMVAO000004VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-schaumburg-kreis-schaumburg-kreisliga-herren-saison2122-niedersachsen/-/staffel/02F0BJJNEG000004VS5489B4VSOE7V84-G"
+    ],
+    "\"Niedersachsen__36__00ES8GMV70000009VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-stade-kreis-stade-kreisliga-herren-saison2122-niedersachsen/-/staffel/02F0O0JFJC00000CVS5489B4VSOE7V84-G"
+    ],
+    "\"Niedersachsen__36__00ES8GMV20000003VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-vechta-kreis-vechta-kreisliga-herren-saison2122-niedersachsen/-/staffel/02ETG1JP8S000005VS5489B4VT8SVH36-G"
+    ],
+    "\"Niedersachsen__36__00ES8GMV70000007VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-verden-kreis-verden-kreisliga-herren-saison2122-niedersachsen/-/staffel/02EUE8MR2K000004VS5489B3VUK1A2F6-G"
+    ],
+    "\"Niedersachsen__36__00ES8GMVC0000008VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/kreisliga-wolfsburg-kreis-wolfsburg-kreisliga-herren-saison2122-niedersachsen/-/staffel/02F56VCH9K000002VS5489B3VTRLPP90-G"
+    ],
+    "\"Niedersachsen__38__00ES8GMV70000003VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-grafschaft-bentheim-kreis-bentheim-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F25K8GM8000002VS5489B3VT1OC9J9-G"
+    ],
+    "\"Niedersachsen__38__00ES8GMVD8000005VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/1-kreisklasse-staffel-1-kreis-braunschweig-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F38II91C000005VS5489B4VS0OFO4E-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1-kreisklasse-staffel-2-kreis-braunschweig-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F38II9DC000005VS5489B4VS0OFO4E-G"
+    ],
+    "\"Niedersachsen__38__00ES8GMVAO000002VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/1-kreisklasse-celle-staffel-i-kreis-celle-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02ETSNQRM8000004VS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1-kreisklasse-celle-staffel-ii-kreis-celle-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02ETSOCS1O000004VS5489B4VT8SVH36-G"
+    ],
+    "\"Niedersachsen__38__00ES8GMV70000002VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-cloppenburg-kreis-cloppenburg-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F1FVAAJ800000DVS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1-kk-clp--8%27er-abstiegsrunde-kreis-cloppenburg-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02GHCP3008000004VS5489B4VSM5S7RJ-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1-kk-clp--8%27er-aufstiegsrunde-kreis-cloppenburg-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02GHCNETG4000004VS5489B4VSM5S7RJ-G"
+    ],
+    "\"Niedersachsen__38__00ES8GMVAO000001VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-cuxhaven-st-i-kreis-cuxhaven-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2V45358000009VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-cuxhaven-st-ii-kreis-cuxhaven-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F3T1TDJK000003VS5489B3VTRLPP90-G"
+    ],
+    "\"Niedersachsen__38__00ES8GMVC0000006VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/1-kreisklasse-dh-sued-kreis-diepholz-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2A7UPBK000007VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-dh-nord-kreis-diepholz-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2A7UP6G00000CVS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1kk-abstieg-kreis-diepholz-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02GL6K4R8K000004VS5489B3VVNIQTT0-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1kk-aufstieg-kreis-diepholz-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02GL6IDF58000004VS5489B3VVNIQTT0-G"
+    ],
+    "\"Niedersachsen__38__00ES8GMV38000000VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/1kk-emsland-mitte-kreis-emsland-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02ESEH3OB4000001VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1kk-emsland-nord-staffel-a-kreis-emsland-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02E8JEAPSS000006VS5489B3VT07RQKQ-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1kk-emsland-nord-staffel-b-kreis-emsland-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02E8JEAQOS000008VS5489B3VT07RQKQ-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1kk-emsland-sued-kreis-emsland-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02ESEFNSP0000004VS5489B3VUK1A2F6-G"
+    ],
+    "\"Niedersachsen__38__00ES8GMVD8000004VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/1-kreisklasse-a-kreis-gifhorn-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F5T5PCNC000004VS5489B3VTRLPP90-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1-kreisklasse-b-kreis-gifhorn-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F5T6FGN4000004VS5489B3VTRLPP90-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1-kreisklasse-c-kreis-gifhorn-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F5T6OJM8000004VS5489B3VTRLPP90-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1-kreisklasse-d-kreis-gifhorn-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F5T70I5O000004VS5489B3VTRLPP90-G"
+    ],
+    "\"Niedersachsen__38__01GT77M4KK000000VTVG0001VTC48VI3\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-a-kreis-goettingen-osterode-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02ERTUP1T000000GVS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-b-kreis-goettingen-osterode-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02ERTUP2AK00000EVS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-c-kreis-goettingen-osterode-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02ERTUP2KS00000EVS5489B4VT8SVH36-G"
+    ],
+    "\"Niedersachsen__38__00ES8GMVC0000005VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-hameln-pyrmont-kreis-hameln-pyrmont-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EUEVE1N0000004VS5489B3VUK1A2F6-G"
+    ],
+    "\"Niedersachsen__38__00ES8GMV7000000EVV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-harburg-kreis-harburg-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F1BUD4VG000008VS5489B4VS0OFO4E-G"
+    ],
+    "\"Niedersachsen__38__0227FI1258000000VTVG0001VSTPT9U2\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-nord-st-1-kreis-heide-wendland-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F3TQ0J34000004VS5489B4VVD6BKS7-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-nord-st-2-kreis-heide-wendland-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F3TQDPQK000004VS5489B4VVD6BKS7-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-sued-st-1-kreis-heide-wendland-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F3TQK89G000004VS5489B4VVD6BKS7-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-sued-st-2-kreis-heide-wendland-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F3TQOJ6O000004VS5489B4VVD6BKS7-G"
+    ],
+    "\"Niedersachsen__38__00ES8GMVAO000000VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-heidekreis-kreis-heidekreis-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F32NLTPS000004VS5489B4VS0OFO4E-G"
+    ],
+    "\"Niedersachsen__38__00ES8GMVD8000001VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/1-kreisklasse-helmstedt-staffel-2-kreis-helmstedt-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F225RNRS000003VS5489B4VS0OFO4E-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-helmstedt-staffel-1-kreis-helmstedt-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F225H860000004VS5489B4VS0OFO4E-G"
+    ],
+    "\"Niedersachsen__38__00ES8GMVC0000002VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-hildesheim-staffel-a-kreis-hildesheim-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F136AC88000006VS5489B4VSOE7V84-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-hildesheim-staffel-b-kreis-hildesheim-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F136ACDG000009VS5489B4VSOE7V84-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-hildesheim-staffel-c-kreis-hildesheim-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F136ACI4000009VS5489B4VSOE7V84-G"
+    ],
+    "\"Niedersachsen__38__00ES8GMVC0000001VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/1-kreisklasse-holzminden-staffel-a-kreis-holzminden-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2L6733G000004VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1-kreisklasse-holzminden-staffel-b-kreis-holzminden-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2L7M5J8000004VS5489B3VT1OC9J9-G"
+    ],
+    "\"Niedersachsen__38__0227FI140K000000VTVG0001VSTPT9U2\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-jwh-staffel-nord-qualifikationsrunde-kreis-jade-weser-hunte-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F07RE1P4000005VS5489B3VSIM4HPC-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-jwh-staffel-sued-qualifikationsrunde-kreis-jade-weser-hunte-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EVSSRMM0000007VS5489B3VSIM4HPC-G"
+    ],
+    "\"Niedersachsen__38__00ES8GMVC0000000VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-nienburg-kreis-nienburg-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F02DABB4000009VS5489B3VSIM4HPC-G"
+    ],
+    "\"Niedersachsen__38__01CQI7FGDG000000VTVG0001VTKE9GKI\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/1-nordharzklasse-staffel-1-kreis-nordharz-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EOK2HUBO000005VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1-nordharzklasse-staffel-2-kreis-nordharz-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EOK2HV2G00000KVS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1-nordharzklasse-staffel-3-kreis-nordharz-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EOK2HVFO000002VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1-nordharzklasse-staffel-4-kreis-nordharz-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EOK2I03K00000FVS5489B3VUK1A2F6-G"
+    ],
+    "\"Niedersachsen__38__00ES8GMVD8000000VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/1-kreisklasse-staffel-1-kreis-northeim-einbeck-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F1D3S910000004VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1-kreisklasse-staffel-2-kreis-northeim-einbeck-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F1D40F2G000004VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1-kreisklasse-staffel-3-kreis-northeim-einbeck-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F1D42IB0000004VS5489B3VT1OC9J9-G"
+    ],
+    "\"Niedersachsen__38__01D5QBJDJ0000000VTVG0001VSR2902F\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-oll-del-kreis-oldenburg-l-delmenhorst-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F1CR310C000004VS5489B3VT1OC9J9-G"
+    ],
+    "\"Niedersachsen__38__028TGSTTUK000000VS5489B1VTQF76TK\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/1-kreisklasse-osnabrueck-staffel-a-kreis-osnabrueck-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EP22NC3O000004VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1-kreisklasse-osnabrueck-staffel-b-kreis-osnabrueck-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EP22REMK000004VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1-kreisklasse-osnabrueck-staffel-c-kreis-osnabrueck-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EP22VHOK000004VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1-kreisklasse-osnabrueck-staffel-d-kreis-osnabrueck-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EP2325TO000004VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1-kreisklasse-osnabrueck-staffel-e-kreis-osnabrueck-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EP234GUC000004VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1-kreisklasse-osnabrueck-staffel-f-kreis-osnabrueck-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EP237UDK000004VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1-kreisklasse-osnabrueck-staffel-g-kreis-osnabrueck-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EV7EAN2O000003VS5489B4VT8SVH36-G"
+    ],
+    "\"Niedersachsen__38__00ES8GMV7000000BVV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-osterholz-staffel-a-kreis-osterholz-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EV3A16T8000004VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-osterholz-staffel-b-kreis-osterholz-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EV3A7V4G000004VS5489B3VUK1A2F6-G"
+    ],
+    "\"Niedersachsen__38__01UKIHT698000000VTVG0001VTA18D1N\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/ostfrieslandklasse-a-st-1-kreis-ostfriesland-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2A4INMK000006VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/ostfrieslandklasse-a-st-2-kreis-ostfriesland-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2A4IO24000005VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/ostfrieslandklasse-a-st-3-kreis-ostfriesland-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2A4IO7O000006VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/ostfrieslandklasse-a-st-4-kreis-ostfriesland-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2A4IOE0000006VS5489B3VT1OC9J9-G"
+    ],
+    "\"Niedersachsen__38__00ES8GMVC000000BVV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-peine-st-a-kreis-peine-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F4B1T7G0000004VS5489B4VVD6BKS7-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-peine-st-b-kreis-peine-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F5KCGB18000003VS5489B4VVD6BKS7-G"
+    ],
+    "\"Niedersachsen__38__01UKIHT4TK000000VTVG0001VTA18D1N\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/1-kreisklasse-region-hannover-st1-kreis-region-hannover-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EU3E6GF0000008VS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1-kreisklasse-region-hannover-st2-kreis-region-hannover-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EU3E6GJS000004VS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1-kreisklasse-region-hannover-st3-kreis-region-hannover-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EU3E6GP0000006VS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1-kreisklasse-region-hannover-st4-kreis-region-hannover-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EU3E6GSG000008VS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-region-hannover-st-5-kreis-region-hannover-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EU3E6H18000004VS5489B4VT8SVH36-G"
+    ],
+    "\"Niedersachsen__38__00ES8GMV7000000AVV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-nord-kreis-rotenburg-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EVCNGM8O000004VS5489B4VVIOJ6AP-G",
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-sued-kreis-rotenburg-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EVCNIJHK000004VS5489B4VVIOJ6AP-G"
+    ],
+    "\"Niedersachsen__38__00ES8GMVAO000004VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-schaumburg-kreis-schaumburg-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F0BLLVMG000004VS5489B4VSOE7V84-G"
+    ],
+    "\"Niedersachsen__38__00ES8GMV70000009VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-stade-kreis-stade-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F10MEH34000009VS5489B3VSIM4HPC-G"
+    ],
+    "\"Niedersachsen__38__00ES8GMV20000003VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-vechta-kreis-vechta-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02ETG22MD8000004VS5489B4VT8SVH36-G"
+    ],
+    "\"Niedersachsen__38__00ES8GMV70000007VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-verden-kreis-verden-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F4IGHMQ8000004VS5489B4VVD6BKS7-G"
+    ],
+    "\"Niedersachsen__38__00ES8GMVC0000008VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/1kreisklasse-wolfsburg-kreis-wolfsburg-1kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F572DI8C000008VS5489B3VTRLPP90-G"
+    ],
+    "\"Niedersachsen__39__00ES8GMV70000003VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-grafschaft-bentheim-kreis-bentheim-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F25V6MR4000004VS5489B3VT1OC9J9-G"
+    ],
+    "\"Niedersachsen__39__00ES8GMVD8000005VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-braunschweig-staffel-1-kreis-braunschweig-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EV5ONE9C000005VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-braunschweig-staffel-2-kreis-braunschweig-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EV5ONEL0000006VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-braunschweig-staffel-3-kreis-braunschweig-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F3T6G7NC000004VS5489B4VVD6BKS7-G"
+    ],
+    "\"Niedersachsen__39__00ES8GMVAO000002VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/2-kreisklasse-celle-staffel-i-kreis-celle-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02ETSPOOAS000003VS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2-kreisklasse-celle-staffel-ii-kreis-celle-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02ETSQGA8S000004VS5489B4VT8SVH36-G"
+    ],
+    "\"Niedersachsen__39__00ES8GMV70000002VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-cloppenburg-staffel-i-kreis-cloppenburg-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EUPSQR0O00000DVS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-cloppenburg-staffel-ii-kreis-cloppenburg-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EUPSQRLG00000DVS5489B3VUK1A2F6-G"
+    ],
+    "\"Niedersachsen__39__00ES8GMVAO000001VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-cuxhaven-st-i-kreis-cuxhaven-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2V9BG60000009VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-cuxhaven-st-ii-kreis-cuxhaven-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F3T2RJ04000004VS5489B3VTRLPP90-G"
+    ],
+    "\"Niedersachsen__39__00ES8GMVC0000006VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/2-kreisklasse-dh-mitte-kreis-diepholz-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2A8HCGO000000VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-dh-nord-kreis-diepholz-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2A8HC5K00000AVS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-dh-sued-kreis-diepholz-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2A8HCBS00000DVS5489B3VT1OC9J9-G"
+    ],
+    "\"Niedersachsen__39__00ES8GMV38000000VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/2kk-emsland-mitte-kreis-emsland-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02ESF62LU4000004VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2kk-emsland-nord-staffel-a-kreis-emsland-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02E8JEE0HO000008VS5489B3VT07RQKQ-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2kk-emsland-nord-staffel-b-kreis-emsland-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02E8JEE0RC000000VS5489B3VT07RQKQ-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2kk-emsland-sued-kreis-emsland-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02ESF7BNA8000004VS5489B3VUK1A2F6-G"
+    ],
+    "\"Niedersachsen__39__00ES8GMVD8000004VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/2-kreisklasse-a-kreis-gifhorn-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F5T3CL6C000000VS5489B3VTRLPP90-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2-kreisklasse-b-kreis-gifhorn-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F5T3NMUO000004VS5489B3VTRLPP90-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2-kreisklasse-c-kreis-gifhorn-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F5T45O8K000004VS5489B3VTRLPP90-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2-kreisklasse-d-kreis-gifhorn-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F5T4D2R4000004VS5489B3VTRLPP90-G"
+    ],
+    "\"Niedersachsen__39__01GT77M4KK000000VTVG0001VTC48VI3\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-a-kreis-goettingen-osterode-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02ERTUT01C00000EVS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-b-kreis-goettingen-osterode-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02ERTUT0EC00000DVS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-c-kreis-goettingen-osterode-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02ERTUT0KS000005VS5489B4VT8SVH36-G"
+    ],
+    "\"Niedersachsen__39__00ES8GMVC0000005VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-hameln-pyrmont-st-1-kreis-hameln-pyrmont-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EUOG8K60000004VS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-hameln-pyrmont-st-2-kreis-hameln-pyrmont-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F0JMTK24000004VS5489B4VSOE7V84-G"
+    ],
+    "\"Niedersachsen__39__00ES8GMV7000000EVV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-harburg-kreis-harburg-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F1CC02F000000CVS5489B4VS0OFO4E-G"
+    ],
+    "\"Niedersachsen__39__0227FI1258000000VTVG0001VSTPT9U2\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-nord-st-1-kreis-heide-wendland-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F3U0BQOC000008VS5489B4VVD6BKS7-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-nord-st-2-kreis-heide-wendland-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F3U3GHD8000002VS5489B4VVD6BKS7-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-sued-st-1-kreis-heide-wendland-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F3U3J7I4000004VS5489B4VVD6BKS7-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-sued-st-2-kreis-heide-wendland-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F3U3KT7K000004VS5489B4VVD6BKS7-G"
+    ],
+    "\"Niedersachsen__39__00ES8GMVAO000000VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-heidekreis-staffel-1-kreis-heidekreis-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F3MKOADG000006VS5489B4VVD6BKS7-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-heidekreis-staffel-2-kreis-heidekreis-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F3MKOA34000006VS5489B4VVD6BKS7-G"
+    ],
+    "\"Niedersachsen__39__00ES8GMVD8000001VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/2-kreisklasse-helmstedt-staffel-2-kreis-helmstedt-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F479NFH8000004VS5489B4VVD6BKS7-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-helmstedt-staffel-1-kreis-helmstedt-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F477KU8G000004VS5489B4VVD6BKS7-G"
+    ],
+    "\"Niedersachsen__39__00ES8GMVC0000002VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-hildesheim-staffel-a-kreis-hildesheim-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F137JPPC000009VS5489B4VSOE7V84-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-hildesheim-staffel-b-kreis-hildesheim-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F137JPV0000008VS5489B4VSOE7V84-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-hildesheim-staffel-c-kreis-hildesheim-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F137JQ4G000008VS5489B4VSOE7V84-G"
+    ],
+    "\"Niedersachsen__39__0227FI140K000000VTVG0001VSTPT9U2\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-jwh-staffel-1-qualifikationsrunde-kreis-jade-weser-hunte-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EVNENAR4000006VS5489B4VSOE7V84-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-jwh-staffel-3-qualifikationsrunde-kreis-jade-weser-hunte-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F4LG8UE8000003VS5489B4VVD6BKS7-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-jwh-staffel-4-qualifikationsrunde-kreis-jade-weser-hunte-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F4NCC484000004VS5489B3VTRLPP90-G"
+    ],
+    "\"Niedersachsen__39__00ES8GMVC0000000VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-nord-nienburg-kreis-nienburg-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F02VSUAK00000CVS5489B3VSIM4HPC-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-sued-nienburg-kreis-nienburg-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EV893Q6K00000BVS5489B4VT8SVH36-G"
+    ],
+    "\"Niedersachsen__39__01CQI7FGDG000000VTVG0001VTKE9GKI\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/2-nordharzklasse-staffel-1-kreis-nordharz-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EOK2JN7K000001VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2-nordharzklasse-staffel-2-kreis-nordharz-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EOK2JNR400000MVS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2-nordharzklasse-staffel-3-kreis-nordharz-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EOK2JO5O00000GVS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2-nordharzklasse-staffel-4-kreis-nordharz-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EOK2JOHG000003VS5489B3VUK1A2F6-G"
+    ],
+    "\"Niedersachsen__39__00ES8GMVD8000000VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-staffel-1-kreis-northeim-einbeck-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F1D8NKVC000004VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-staffel-2-kreis-northeim-einbeck-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F1D8Q2IK000004VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-staffel-3-kreis-northeim-einbeck-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F1D8S24K000004VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-staffel-4-kreis-northeim-einbeck-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F1D91HP0000004VS5489B3VT1OC9J9-G"
+    ],
+    "\"Niedersachsen__39__01D5QBJDJ0000000VTVG0001VSR2902F\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-oll-del-kreis-oldenburg-l-delmenhorst-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F1NA7EOG000004VS5489B3VT1OC9J9-G"
+    ],
+    "\"Niedersachsen__39__028TGSTTUK000000VS5489B1VTQF76TK\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/2-kreisklasse-osnabrueck-staffel-a-kreis-osnabrueck-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EP23L5H8000004VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2-kreisklasse-osnabrueck-staffel-b-kreis-osnabrueck-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EP23P13S000004VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2-kreisklasse-osnabrueck-staffel-c-kreis-osnabrueck-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EP23RFFK000004VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2-kreisklasse-osnabrueck-staffel-d-kreis-osnabrueck-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EP23TLGS000004VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2-kreisklasse-osnabrueck-staffel-e-kreis-osnabrueck-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EP2404QC000004VS5489B3VUK1A2F6-G"
+    ],
+    "\"Niedersachsen__39__00ES8GMV7000000BVV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-osterholz-kreis-osterholz-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EV3B7QKO000004VS5489B3VUK1A2F6-G"
+    ],
+    "\"Niedersachsen__39__01UKIHT698000000VTVG0001VTA18D1N\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/ostfrieslandklasse-b-st-5-kreis-ostfriesland-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2A7JH1C000006VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/ostfrieslandklasse-b-st-1-kreis-ostfriesland-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2A7JG78000009VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/ostfrieslandklasse-b-st-2-kreis-ostfriesland-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2A7JGJO000008VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/ostfrieslandklasse-b-st-3-kreis-ostfriesland-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2A7JGP4000005VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/ostfrieslandklasse-b-st-4-kreis-ostfriesland-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2A7JGTS000008VS5489B3VT1OC9J9-G"
+    ],
+    "\"Niedersachsen__39__00ES8GMVC000000BVV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-peine-mitte-kreis-peine-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F64RQEL4000004VS5489B3VVK9FPIS-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-peine-nord-kreis-peine-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F4C0O4QO000004VS5489B3VTRLPP90-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-peine-sued-kreis-peine-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F64R5VQC000004VS5489B3VVK9FPIS-G"
+    ],
+    "\"Niedersachsen__39__01UKIHT4TK000000VTVG0001VTA18D1N\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-region-hannover-st-5-kreis-region-hannover-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EU3E8HI4000008VS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-region-hannover-st1-kreis-region-hannover-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EU3E8GO4000008VS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-region-hannover-st2-kreis-region-hannover-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EU3E8H0S000006VS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-region-hannover-st3-kreis-region-hannover-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EU3E8H6K000008VS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-region-hannover-st4-kreis-region-hannover-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EU3E8HE8000000VS5489B4VT8SVH36-G"
+    ],
+    "\"Niedersachsen__39__00ES8GMV7000000AVV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-nord-kreis-rotenburg-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EVCPPJSK000002VS5489B4VVIOJ6AP-G",
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-sued-kreis-rotenburg-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EVCPR6PC000002VS5489B4VVIOJ6AP-G"
+    ],
+    "\"Niedersachsen__39__00ES8GMVAO000004VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-schaumburg-kreis-schaumburg-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F0BM2LE0000004VS5489B4VSOE7V84-G"
+    ],
+    "\"Niedersachsen__39__00ES8GMV70000009VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-stade-kreis-stade-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F114FRB4000008VS5489B3VSIM4HPC-G"
+    ],
+    "\"Niedersachsen__39__00ES8GMV20000003VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-vechta-kreis-vechta-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02ETG2BE2O000005VS5489B4VT8SVH36-G"
+    ],
+    "\"Niedersachsen__39__00ES8GMV70000007VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-verden-kreis-verden-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F4JQJIGK000004VS5489B4VVD6BKS7-G"
+    ],
+    "\"Niedersachsen__39__00ES8GMVC0000008VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/2kreisklasse-wolfsburg-kreis-wolfsburg-2kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F577S5N4000006VS5489B3VTRLPP90-G"
+    ],
+    "\"Niedersachsen__40__00ES8GMV70000003VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-grafschaft-bentheim-kreis-bentheim-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F266QSMK000004VS5489B3VT1OC9J9-G"
+    ],
+    "\"Niedersachsen__40__00ES8GMVAO000002VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/3-kreisklasse-celle-kreis-celle-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02ETSVSON8000003VS5489B4VT8SVH36-G"
+    ],
+    "\"Niedersachsen__40__00ES8GMV70000002VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-cloppenburg-staffel-i-kreis-cloppenburg-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EUPVA0VK00000CVS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-cloppenburg-staffel-ii-kreis-cloppenburg-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EUPVA1EO00000BVS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-cloppenburg-staffel-iii-kreis-cloppenburg-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EUPVA1J4000009VS5489B3VUK1A2F6-G"
+    ],
+    "\"Niedersachsen__40__00ES8GMVAO000001VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-cuxhaven-st-i-kreis-cuxhaven-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2V9QBAC00000AVS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-cuxhaven-st-ii-kreis-cuxhaven-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F40DVS7S000004VS5489B3VTRLPP90-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-cuxhaven-st-iii-kreis-cuxhaven-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F40F3OBC000004VS5489B3VTRLPP90-G"
+    ],
+    "\"Niedersachsen__40__00ES8GMVC0000006VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/3-kreisklasse-dh-mitte-kreis-diepholz-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2AA47IG000003VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-dh-nord-kreis-diepholz-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2A9SBTS00000DVS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-dh-ost-kreis-diepholz-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2A9SCK4000000VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-dh-sued-kreis-diepholz-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2A9SCDK000003VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-dh-west-kreis-diepholz-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2A9SC7S000007VS5489B3VT1OC9J9-G"
+    ],
+    "\"Niedersachsen__40__00ES8GMV38000000VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/3-kk-emsland-nord-kreis-emsland-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02ESKSB5CG000004VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kk-emsland-mitte-kreis-emsland-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02ESKTL1QK000004VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kk-emsland-sued-kreis-emsland-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02ESOQ8A30000004VS5489B3VUK1A2F6-G"
+    ],
+    "\"Niedersachsen__40__00ES8GMVD8000004VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/3-kreisklasse-1-kreis-gifhorn-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F5T1E1SC000004VS5489B3VTRLPP90-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3-kreisklasse-2-kreis-gifhorn-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F5T1SRGO000003VS5489B3VTRLPP90-G"
+    ],
+    "\"Niedersachsen__40__01GT77M4KK000000VTVG0001VTC48VI3\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-a-kreis-goettingen-osterode-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02ERTUU2LS00000FVS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-b-kreis-goettingen-osterode-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02ERTUU2V800000EVS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-c-kreis-goettingen-osterode-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02ERTUU34O00000EVS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-d-kreis-goettingen-osterode-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02ERTUU3AO00000BVS5489B4VT8SVH36-G"
+    ],
+    "\"Niedersachsen__40__00ES8GMVC0000005VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-hameln-pyrmont-st-1-kreis-hameln-pyrmont-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F0JOAASG000004VS5489B4VSOE7V84-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-hameln-pyrmont-st-2-kreis-hameln-pyrmont-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F0JOVBI8000004VS5489B4VSOE7V84-G"
+    ],
+    "\"Niedersachsen__40__00ES8GMV7000000EVV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-harburg-kreis-harburg-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F1CD2MCK000008VS5489B4VS0OFO4E-G"
+    ],
+    "\"Niedersachsen__40__0227FI1258000000VTVG0001VSTPT9U2\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-nord-st-1-kreis-heide-wendland-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F3U919CG000000VS5489B4VVD6BKS7-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-nord-st-2-kreis-heide-wendland-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F3U96VD0000004VS5489B4VVD6BKS7-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-ost-st-1-kreis-heide-wendland-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F3U9JCPC000000VS5489B4VVD6BKS7-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-ost-st-2-kreis-heide-wendland-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F3U9NFKG000004VS5489B4VVD6BKS7-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-west-st-1-kreis-heide-wendland-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F3U9CJI8000004VS5489B4VVD6BKS7-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-west-st-2-kreis-heide-wendland-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F3U9FNBK000004VS5489B4VVD6BKS7-G"
+    ],
+    "\"Niedersachsen__40__00ES8GMVD8000001VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-helmstedt-kreis-helmstedt-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F47FM020000004VS5489B4VVD6BKS7-G"
+    ],
+    "\"Niedersachsen__40__00ES8GMVC0000002VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-hildesheim-staffel-a-kreis-hildesheim-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F139KKES000008VS5489B4VSOE7V84-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-hildesheim-staffel-b-kreis-hildesheim-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F139KKM4000008VS5489B4VSOE7V84-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-hildesheim-staffel-c-kreis-hildesheim-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F139KKQ4000009VS5489B4VSOE7V84-G"
+    ],
+    "\"Niedersachsen__40__0227FI140K000000VTVG0001VSTPT9U2\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-jwh-staffel-1-qualifikationsrunde-kreis-jade-weser-hunte-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EVNFP3L0000005VS5489B4VSOE7V84-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-jwh-staffel-2-qualifikationsrunde-kreis-jade-weser-hunte-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F0MQKREO000007VS5489B3VSIM4HPC-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-jwh-staffel-3-qualifikationsrunde-kreis-jade-weser-hunte-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F4NE56HS000004VS5489B3VTRLPP90-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-jwh-staffel-4-qualifikationsrunde-kreis-jade-weser-hunte-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F4NF71OS000004VS5489B3VTRLPP90-G"
+    ],
+    "\"Niedersachsen__40__00ES8GMVC0000000VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-nord-nienburg-kreis-nienburg-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F03C0BH800000BVS5489B3VSIM4HPC-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-sued-nienburg-kreis-nienburg-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EV8C878C00000BVS5489B4VT8SVH36-G"
+    ],
+    "\"Niedersachsen__40__01CQI7FGDG000000VTVG0001VTKE9GKI\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/3-nordharzklasse-staffel-1-kreis-nordharz-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EOK2LFV400000DVS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3-nordharzklasse-staffel-2-kreis-nordharz-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EOK2LGF8000004VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3-nordharzklasse-staffel-3-kreis-nordharz-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EOK2LGPG000001VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3-nordharzklasse-staffel-4-kreis-nordharz-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F1VC015G000004VS5489B4VS0OFO4E-G"
+    ],
+    "\"Niedersachsen__40__00ES8GMVD8000000VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/3-kreisklasse-9er-kleinfeld-kreis-northeim-einbeck-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F1DHTSCO000004VS5489B3VT1OC9J9-G"
+    ],
+    "\"Niedersachsen__40__01D5QBJDJ0000000VTVG0001VSR2902F\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-oll-del-kreis-oldenburg-l-delmenhorst-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F1P3DCUK000003VS5489B3VT1OC9J9-G"
+    ],
+    "\"Niedersachsen__40__028TGSTTUK000000VS5489B1VTQF76TK\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/3-kreisklasse-osnabrueck-staffel-a-kreis-osnabrueck-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EP24OTES000003VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3-kreisklasse-osnabrueck-staffel-b-kreis-osnabrueck-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EP24SBM0000004VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3-kreisklasse-osnabrueck-staffel-c-kreis-osnabrueck-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EP24UDMK000004VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3-kreisklasse-osnabrueck-staffel-d-kreis-osnabrueck-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EP250R80000004VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3-kreisklasse-osnabrueck-staffel-e-kreis-osnabrueck-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EP2530F8000004VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3-kreisklasse-osnabrueck-staffel-f-kreis-osnabrueck-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02ESFO8T3O000004VS5489B3VUK1A2F6-G"
+    ],
+    "\"Niedersachsen__40__00ES8GMV7000000BVV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/3-kreisklasse-osterholz-staffel-a-kreis-osterholz-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EV3BOQ5S000004VS5489B3VUK1A2F6-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3-kreisklasse-osterholz-staffel-b-kreis-osterholz-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EV3BUDUG000004VS5489B3VUK1A2F6-G"
+    ],
+    "\"Niedersachsen__40__01UKIHT698000000VTVG0001VTA18D1N\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/ostfrieslandklasse-c-st-1-kreis-ostfriesland-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2ACNQTS000008VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/ostfrieslandklasse-c-st-2-kreis-ostfriesland-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2ACNR48000006VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/ostfrieslandklasse-c-st-4-kreis-ostfriesland-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2ACNRD8000006VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/ostfrieslandklasse-c-st-3-kreis-ostfriesland-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2ACNR98000006VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/ostfrieslandklasse-c-st-5-kreis-ostfriesland-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2ACNRJC000008VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/ostfrieslandklasse-c-st-6-kreis-ostfriesland-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2ACNROC000006VS5489B3VT1OC9J9-G"
+    ],
+    "\"Niedersachsen__40__00ES8GMVC000000BVV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-peine-mitte-kreis-peine-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F67EP2VG000004VS5489B3VVK9FPIS-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-peine-nord-kreis-peine-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F67F08R8000003VS5489B3VVK9FPIS-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-peine-sued-kreis-peine-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F67F47Q8000004VS5489B3VVK9FPIS-G"
+    ],
+    "\"Niedersachsen__40__01UKIHT4TK000000VTVG0001VTA18D1N\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-region-hannover-st1-kreis-region-hannover-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EU3EAEH400000AVS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-region-hannover-st2-kreis-region-hannover-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EU3EAES0000009VS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-region-hannover-st3-kreis-region-hannover-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EU3EAEVO00000AVS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-region-hannover-st4-kreis-region-hannover-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EU3EAF3S00000AVS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-region-hannover-st5-kreis-region-hannover-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EU3EAF90000006VS5489B4VT8SVH36-G"
+    ],
+    "\"Niedersachsen__40__00ES8GMV7000000AVV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-nord-kreis-rotenburg-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EVCQ2PKG000004VS5489B4VVIOJ6AP-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-ost-kreis-rotenburg-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EVCQ5FN0000004VS5489B4VVIOJ6AP-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-sued-kreis-rotenburg-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EVCQ7BFS000004VS5489B4VVIOJ6AP-G",
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-west-kreis-rotenburg-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EVCQ8ITK000004VS5489B4VVIOJ6AP-G"
+    ],
+    "\"Niedersachsen__40__00ES8GMVAO000004VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-schaumburg-kreis-schaumburg-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F0BMH8C8000003VS5489B4VSOE7V84-G"
+    ],
+    "\"Niedersachsen__40__00ES8GMV70000009VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-stade-kreis-stade-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F0EKVC08000004VS5489B3VSIM4HPC-G"
+    ],
+    "\"Niedersachsen__40__00ES8GMV20000003VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-vechta-kreis-vechta-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EU5UCT44000005VS5489B3VUK1A2F6-G"
+    ],
+    "\"Niedersachsen__40__00ES8GMV70000007VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/3kreisklasse-verden-kreis-verden-3kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F4JS2E8O000004VS5489B4VVD6BKS7-G"
+    ],
+    "\"Niedersachsen__41__00ES8GMV70000003VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-grafschaft-bentheim--staffel-a---kreis-bentheim-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F26C44JC000004VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-grafschaft-bentheim--staffel-b---kreis-bentheim-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F26IABT0000003VS5489B3VT1OC9J9-G"
+    ],
+    "\"Niedersachsen__41__00ES8GMVAO000002VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-celle-staffel-i-kreis-celle-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F506JIA0000004VS5489B3VTRLPP90-G",
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-celle-staffel-ii-kreis-celle-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F50732BS000004VS5489B3VTRLPP90-G"
+    ],
+    "\"Niedersachsen__41__00ES8GMV38000000VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-emsland-mitte-kreis-emsland-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02E7VKM7PK000008VS5489B3VT07RQKQ-G",
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-emsland-mitte-sued-kreis-emsland-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02E7VKM8S0000008VS5489B3VT07RQKQ-G",
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-emsland-nord-kreis-emsland-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02E7VKM5O4000008VS5489B3VT07RQKQ-G",
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-emsland-sued-kreis-emsland-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EV4KSOL0000004VS5489B3VUK1A2F6-G"
+    ],
+    "\"Niedersachsen__41__01GT77M4KK000000VTVG0001VTC48VI3\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/kleinfeld-7er-kreis-goettingen-osterode-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02ERTUVF0400000EVS5489B4VT8SVH36-G"
+    ],
+    "\"Niedersachsen__41__00ES8GMV7000000EVV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-harburg-ost-kreis-harburg-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F1CGKNSK000009VS5489B4VS0OFO4E-G",
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-harburg-west-kreis-harburg-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F1CGKO8C000009VS5489B4VS0OFO4E-G"
+    ],
+    "\"Niedersachsen__41__0227FI1258000000VTVG0001VSTPT9U2\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-mitte-kreis-heide-wendland-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F5KIFP9S000004VS5489B4VVD6BKS7-G",
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-nord-kreis-heide-wendland-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F3ULO1M0000008VS5489B3VTRLPP90-G",
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-sued-kreis-heide-wendland-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F3ULO2D4000008VS5489B3VTRLPP90-G",
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-west-kreis-heide-wendland-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F3ULO290000006VS5489B3VTRLPP90-G"
+    ],
+    "\"Niedersachsen__41__00ES8GMVC0000002VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-hildesheim-staffel-a-kreis-hildesheim-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F13ACNTS000009VS5489B4VSOE7V84-G",
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-hildesheim-staffel-b-kreis-hildesheim-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F13ACO38000009VS5489B4VSOE7V84-G",
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-hildesheim-staffel-c-kreis-hildesheim-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F13AI0E0000004VS5489B4VSOE7V84-G"
+    ],
+    "\"Niedersachsen__41__0227FI140K000000VTVG0001VSTPT9U2\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-jwh-staffel-1-qualifikationsrunde-kreis-jade-weser-hunte-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2BQPTC0000006VS5489B4VS0OFO4E-G",
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-jwh-staffel-2-qualifikationsrunde-kreis-jade-weser-hunte-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F0MSF2HK000007VS5489B3VSIM4HPC-G",
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-jwh-staffel-3-qualifikationsrunde-kreis-jade-weser-hunte-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F4NGV84K000004VS5489B3VTRLPP90-G",
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-jwh-staffel-4-qualifikationsrunde-kreis-jade-weser-hunte-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F4NHOGC0000004VS5489B3VTRLPP90-G"
+    ],
+    "\"Niedersachsen__41__01D5QBJDJ0000000VTVG0001VSR2902F\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-oll-del-kreis-oldenburg-l-delmenhorst-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F22HLFE8000004VS5489B4VS0OFO4E-G"
+    ],
+    "\"Niedersachsen__41__01UKIHT698000000VTVG0001VTA18D1N\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/ostfrieslandklasse-d-st-6-kreis-ostfriesland-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2AHU8H8000006VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/ostfrieslandklasse-d-st-7-kreis-ostfriesland-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2AHU8MS000006VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/ostfrieslandklasse-d-st-1-kreis-ostfriesland-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2AHU7J8000008VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/ostfrieslandklasse-d-st-2-kreis-ostfriesland-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2AHU7T4000007VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/ostfrieslandklasse-d-st-3-kreis-ostfriesland-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2AHU82K000008VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/ostfrieslandklasse-d-st-4-kreis-ostfriesland-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2AHU87C000006VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/ostfrieslandklasse-d-st-5-kreis-ostfriesland-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2AHU8D0000007VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/ostfrieslandklasse-d-st-8-kreis-ostfriesland-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2AIF8DG000004VS5489B3VT1OC9J9-G",
+        "_https://www.fussball.de/spieltagsuebersicht/ostfrieslandklasse-d-st-9-kreis-ostfriesland-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2AIK79O000004VS5489B3VT1OC9J9-G"
+    ],
+    "\"Niedersachsen__41__01UKIHT4TK000000VTVG0001VTA18D1N\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-region-hannover-st1-kreis-region-hannover-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EU3ECKBK00000AVS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-region-hannover-st2-kreis-region-hannover-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EU3ECKKC000008VS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-region-hannover-st3-kreis-region-hannover-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EU3ECKO000000AVS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-region-hannover-st4-kreis-region-hannover-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EU3ECKTC00000AVS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-region-hannover-st5-kreis-region-hannover-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EU3ECL4800000AVS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-region-hannover-st6-kreis-region-hannover-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EU3ECL7S00000AVS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-region-hannover-st7-kreis-region-hannover-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EU3ECLBG000005VS5489B4VT8SVH36-G",
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-region-hannover-st8-kreis-region-hannover-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EU67GPC8000004VS5489B3VUK1A2F6-G"
+    ],
+    "\"Niedersachsen__41__00ES8GMV7000000AVV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-nord-kreis-rotenburg-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EVCVB08K000003VS5489B3VSIM4HPC-G",
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-ost-kreis-rotenburg-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EVCVDANK000004VS5489B3VSIM4HPC-G",
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-sued-kreis-rotenburg-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EVCVEVAC000003VS5489B3VSIM4HPC-G",
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-west-kreis-rotenburg-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02EVCVGAS4000004VS5489B3VSIM4HPC-G"
+    ],
+    "\"Niedersachsen__41__00ES8GMVAO000004VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-schaumburg-nord-kreis-schaumburg-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F0BNVJ0K000004VS5489B4VSOE7V84-G",
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-schaumburg-sued-kreis-schaumburg-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F0BO6EF8000004VS5489B4VSOE7V84-G"
+    ],
+    "\"Niedersachsen__41__00ES8GMV70000009VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/4kreisklasse-kreis-stade-4kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F0EPRUEK000003VS5489B3VSIM4HPC-G"
+    ],
+    "\"Niedersachsen__42__00ES8GMVC0000006VV0AG08LVUPGND5I\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/5kreisklasse-dh-7er-nord-kreis-diepholz-5kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2CREI9800000EVS5489B4VS0OFO4E-G",
+        "_https://www.fussball.de/spieltagsuebersicht/5kreisklasse-dh-7er-sued-kreis-diepholz-5kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2CREIQ000000EVS5489B4VS0OFO4E-G"
+    ],
+    "\"Niedersachsen__42__01D5QBJDJ0000000VTVG0001VSR2902F\"": [
+        "_https://www.fussball.de/spieltagsuebersicht/5kreisklasse-oll-del-kreis-oldenburg-l-delmenhorst-5kreisklasse-herren-saison2122-niedersachsen/-/staffel/02F2372SHS000004VS5489B4VS0OFO4E-G"
+    ]
+}

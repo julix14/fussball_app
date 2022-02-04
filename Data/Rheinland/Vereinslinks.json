@@ -1,0 +1,755 @@
+{
+    "\"Rheinland__207__0123456789ABCDEF0123456700004140\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/fsv-trier-tarforst-fsv-trier-tarforst-rheinland/-/saison/2122/team-id/011MIA9PRO000000VTVG0001VTR8C1K7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/tus-kirchberg-tus-kirchberg-1909-ev-rheinland/-/saison/2122/team-id/011MIDQ6DK000000VTVG0001VTR8C1K7\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/fv-morbach-fv-hunsrueckhoehe-morbach-rheinland/-/saison/2122/team-id/02BAU36ESC000000VS5489B2VVDBHQQ7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/sg-hochwald-zerf-fc-zerf-hochwald-rheinland/-/saison/2122/team-id/012N9RUV60000000VV0AG811VUPV8FHO\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/ahrweiler-bc-ahrweiler-bc-rheinland/-/saison/2122/team-id/011MICMCAG000000VTVG0001VTR8C1K7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/sg-schneifel-auw-djk-auw-rheinland/-/saison/2122/team-id/02AVLV8CHK000000VS5489B1VULH2T74\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/vfb-wissen-vfb-wissen-rheinland/-/saison/2122/team-id/011MICTJ1O000000VTVG0001VTR8C1K7\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/fc-bitburg-fc-bitburg-rheinland/-/saison/2122/team-id/011MIEG76K000000VTVG0001VTR8C1K7\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/sg-99-andernach-sg-99-andernach-rheinland/-/saison/2122/team-id/011MIDQ9QC000000VTVG0001VTR8C1K7\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/fc-metternich-fc-germania-metternich-rheinland/-/saison/2122/team-id/011MIEV924000000VTVG0001VTR8C1K7\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/sg-malberg-sv-malberg-rheinland/-/saison/2122/team-id/011MIBTI9G000000VTVG0001VTR8C1K7\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/sg-mendig-sv-eintracht-mendig-rheinland/-/saison/2122/team-id/02EPUU1T88000000VS5489B1VT0RKM5V\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/sg-neitersen-wiedbacht-spfr-neitersen-rheinland/-/saison/2122/team-id/02B6N970UC000000VS5489B1VULH2T74\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/tus-mayen-fussballverein-tus-mayen-rheinland/-/saison/2122/team-id/011MIDD5A4000000VTVG0001VTR8C1K7\""
+        ],
+        "14": [
+            "https://www.fussball.de/mannschaft/tus-montabaur-tus-montabaur-rheinland/-/saison/2122/team-id/011MIC8GGG000000VTVG0001VTR8C1K7\""
+        ],
+        "15": [
+            "https://www.fussball.de/mannschaft/sv-mehring-sv-mehring-rheinland/-/saison/2122/team-id/011MIBB720000000VTVG0001VTR8C1K7\""
+        ],
+        "16": [
+            "https://www.fussball.de/mannschaft/sg-ellscheid-sv-rot-weiss-ellscheid-rheinland/-/saison/2122/team-id/016CRI70VS000000VV0AG80NVU8CBD3E\""
+        ]
+    },
+    "\"Rheinland__210__00GQ4EGDOS000000VTVG0001VS1O0TGP\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/sv-rot-weiss-wittlich-sv-rw-wittlich-1993-rheinland/-/saison/2122/team-id/011MIE1H88000000VTVG0001VTR8C1K7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/fsg-ehrang-sv-ehrang-rheinland/-/saison/2122/team-id/011MIE1LO0000000VTVG0001VTR8C1K7\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/sg-saartal-schoden-sv-schoden-rheinland/-/saison/2122/team-id/02ESGFFQN4000000VS5489B2VVP292BR\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/sg-mont-royal-kroev-tus-kroev-1920-rheinland/-/saison/2122/team-id/02EUOB7JSC000000VS5489B1VT0RKM5V\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/sg-arzfeld-fsv-arzfeld-rheinland/-/saison/2122/team-id/02EQ2R21N8000000VS5489B2VVP292BR\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/sg-geisfeld-sv-geisfeld-ev-rheinland/-/saison/2122/team-id/02EMRVIT0K000000VS5489B2VSAS84KM\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/tus-mosella-schweich-tus-mosella-schweich-rheinland/-/saison/2122/team-id/011MI9V13S000000VTVG0001VTR8C1K7\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/sg-ruwertal-sg-ruwertal-rheinland/-/saison/2122/team-id/011MIE1GJG000000VTVG0001VTR8C1K7\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/sv-zeltingen-rachtig-sv-zeltingen-rachtig-rheinland/-/saison/2122/team-id/011MIAJFSO000000VTVG0001VTR8C1K7\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/sv-konz-sv-konz-rheinland/-/saison/2122/team-id/011MIC389C000000VTVG0001VTR8C1K7\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/sg-badem-sv-badem-rheinland/-/saison/2122/team-id/02EOE2NCBC000000VS5489B1VU24SJ9U\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/sg-wallendorf-sv-wallendorf-rheinland/-/saison/2122/team-id/02EOP0GSRC000000VS5489B2VVP292BR\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/sg-wallenborn-sv-wallenborn-rheinland/-/saison/2122/team-id/011MIBHOFO000000VTVG0001VTR8C1K7\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/tus-schillingen-tus-schillingen-rheinland/-/saison/2122/team-id/011MI9V1H8000000VTVG0001VTR8C1K7\""
+        ],
+        "14": [
+            "https://www.fussball.de/mannschaft/sg-ralingen-fsv-ralingen-rheinland/-/saison/2122/team-id/011MIB1NMO000000VTVG0001VTR8C1K7\""
+        ],
+        "15": [
+            "https://www.fussball.de/mannschaft/sv-luexem-sv-%22gruenewald%22-luexem-rheinland/-/saison/2122/team-id/02ET8JSN88000000VS5489B1VT0RKM5V\""
+        ],
+        "16": [
+            "https://www.fussball.de/mannschaft/sg-baustert-sv-baustert-rheinland/-/saison/2122/team-id/02EVF2LFUK000000VS5489B2VUBVHUE0\""
+        ],
+        "17": [
+            "https://www.fussball.de/mannschaft/sv-speicher-sv-speicher-rheinland/-/saison/2122/team-id/011MIDBGG8000000VTVG0001VTR8C1K7\""
+        ]
+    },
+    "\"Rheinland__213__00ES8GN0HG000009VV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/sv-schleid-sv-schleid-rheinland/-/saison/2122/team-id/011MID4K9K000000VTVG0001VTR8C1K7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/tus-ahbach-tus-ahbach-ahuette-rheinland/-/saison/2122/team-id/011MIAEKIG000000VTVG0001VTR8C1K7\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/sg-nattenheim-bickendorf-djk-nattenheim-bickendorf-rheinland/-/saison/2122/team-id/02EPLVDVTK000000VS5489B2VVP292BR\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/sv-neunkirchen-steinborn-sv-neunkirchen-steinborn-rheinland/-/saison/2122/team-id/011MIA43RC000000VTVG0001VTR8C1K7\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/djk-kelberg-djk-kelberg-rheinland/-/saison/2122/team-id/011MIDQ6EK000000VTVG0001VTR8C1K7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/sg-stahl-stahler-sc-rheinland/-/saison/2122/team-id/02ENDGP1M4000000VS5489B1VU24SJ9U\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/sg-mettendorf-fc-mettendorf-lahr-rheinland/-/saison/2122/team-id/02EPEFDKCO000000VS5489B1VT0RKM5V\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/sg-wiesbaum-sv-wiesbaum-rheinland/-/saison/2122/team-id/02EPT9PPOK000000VS5489B2VVP292BR\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/sg-pruemer-land-rommersheim-1-fc-rommersheim-rheinland/-/saison/2122/team-id/02B2HKCH1G000000VS5489B2VS0NK514\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/sg-herforst-djk-herforst-rheinland/-/saison/2122/team-id/02ER0O2MF4000000VS5489B1VT0RKM5V\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/sg-kylltal-birresborn-sv-eintracht-birresborn-rheinland/-/saison/2122/team-id/027FP748G4000000VS5489B1VU8ROJMK\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/sg-grosskampen-1-fc-grosskampen-rheinland/-/saison/2122/team-id/011MICMB2K000000VTVG0001VTR8C1K7\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/sg-weinsheim-fc-weinsheim-rheinland/-/saison/2122/team-id/011MIB1OCC000000VTVG0001VTR8C1K7\""
+        ]
+    },
+    "\"Rheinland__213__00ES8GN0HG00000BVV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/tsv-emmelshausen-ii-tsv-emmelshausen-rheinland/-/saison/2122/team-id/011MIBHNG4000000VTVG0001VTR8C1K7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/sg-niederburg-sv-niederburg-rheinland/-/saison/2122/team-id/011MIA42I8000000VTVG0001VTR8C1K7\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/sg-morshausen-beulich-sv-morshausen-beulich-rheinland/-/saison/2122/team-id/011MIFDHJO000000VTVG0001VTR8C1K7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/sg-biebern-i-spvgg-biebertal-biebern-rheinland/-/saison/2122/team-id/023P6Q2S6C000000VS548985VT5V9K59\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/ssv-boppard-ssv-boppard-rheinland/-/saison/2122/team-id/011MIEHJV4000000VTVG0001VTR8C1K7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/tus-kirchberg-ii-tus-kirchberg-1909-ev-rheinland/-/saison/2122/team-id/012DGUJ1T0000000VV0AG811VUP9V33C\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/sg-dickenschied-vfr-dickenschied-womrath-rheinland/-/saison/2122/team-id/011MIF6B54000000VTVG0001VTR8C1K7\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/sg-bremm-tus-bremm-ev-rheinland/-/saison/2122/team-id/011MID4IQ0000000VTVG0001VTR8C1K7\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/sg-vorderhunsrueck-luetz-spvgg-luetz-rheinland/-/saison/2122/team-id/02B4SMGCGC000000VS5489B2VS0NK514\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/sg-eintracht-oppenhausen-sv-eintracht-oppenhausen-rheinland/-/saison/2122/team-id/02ETG42KLC000000VS5489B2VVP292BR\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/sg-laudert-wiebelsheim-sv-laudert-wiebelsheim-rheinland/-/saison/2122/team-id/01S6Q8BFKC000000VS548985VUL18RL3\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/ssg-lutzerather-hoehe-ssg-lutzerather-hoehe-rheinland/-/saison/2122/team-id/011MI9OM3C000000VTVG0001VTR8C1K7\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/spvgg-cochem-ii-spvgg-cochem-rheinland/-/saison/2122/team-id/011MICTH34000000VTVG0001VTR8C1K7\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/sg-unzenberg-tv-unzenberg-heinzenbach-rheinland/-/saison/2122/team-id/02EVT3MAQC000000VS5489B1VT1H0S9M\""
+        ]
+    },
+    "\"Rheinland__213__00ES8GN0HG00000DVV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/sv-weitersburg-sv-weitersburg-rheinland/-/saison/2122/team-id/011MIB1R9K000000VTVG0001VTR8C1K7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/sg-moseltal-vfr-niederfell-rheinland/-/saison/2122/team-id/02BA2649DS000000VS5489B1VU20GQ5T\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/tus-niederberg-tus-niederberg-rheinland/-/saison/2122/team-id/011MIASUDG000000VTVG0001VTR8C1K7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/sv-anadolu-spor-koblenz-sv-anadolu-spor-koblenz-rheinland/-/saison/2122/team-id/011MIBB7J0000000VTVG0001VTR8C1K7\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/sv-untermosel-kobern-sv-untermosel-kobern-g-rheinland/-/saison/2122/team-id/011MIAJGSK000000VTVG0001VTR8C1K7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/sc-vallendar-sc-vallendar-rheinland/-/saison/2122/team-id/011MID4I20000000VTVG0001VTR8C1K7\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/vfr-koblenz-vfr-eintracht-koblenz-rheinland/-/saison/2122/team-id/011MIBHOQS000000VTVG0001VTR8C1K7\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/fc-horchheim-fc-1911-horchheim-rheinland/-/saison/2122/team-id/011MIFDI2O000000VTVG0001VTR8C1K7\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/sg-augst-eitelborn-sc-eitelborn-rheinland/-/saison/2122/team-id/01OFP1RA0O000000VV0AG80NVUUTMIT0\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/sg-spay-i-sv-spay-rheinland/-/saison/2122/team-id/02ES0GFPV4000000VS5489B1VT0RKM5V\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/sv-niederwerth-sv-niederwerth-rheinland/-/saison/2122/team-id/011MIEV8C0000000VTVG0001VTR8C1K7\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/fc-metternich-ii-fc-germania-metternich-rheinland/-/saison/2122/team-id/011MIC38SK000000VTVG0001VTR8C1K7\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/tus-kettig-tus-kettig-ev-rheinland/-/saison/2122/team-id/016BPDES6C000000VV0AG80NVU8CBD3E\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/fc-rot-weiss-koblenz-ev-ii-fc-rot-weiss-koblenz-ev-rheinland/-/saison/2122/team-id/02EVOC56K0000000VS5489B2VUBVHUE0\""
+        ],
+        "14": [
+            "https://www.fussball.de/mannschaft/sc-bendorf-sayn-sc-bendorf-sayn-rheinland/-/saison/2122/team-id/011MIC3BJG000000VTVG0001VTR8C1K7\""
+        ]
+    },
+    "\"Rheinland__213__00ES8GN0HG000008VV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/sv-hetzerath-sv-hetzerath-1921-ev-rheinland/-/saison/2122/team-id/011MIEV9A8000000VTVG0001VTR8C1K7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/sg-veldenz-sv-veldenz-rheinland/-/saison/2122/team-id/02ES1KG3OC000000VS5489B2VVP292BR\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/sg-moseltal-maring-sv-maring-rheinland/-/saison/2122/team-id/02ELFUDPLG000000VS5489B1VUG7DPRH\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/sv-niederemmel-sv-niederemmel-rheinland/-/saison/2122/team-id/011MIE1K84000000VTVG0001VTR8C1K7\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/sv-gonzerath-sv-gonzerath-rheinland/-/saison/2122/team-id/011MI9V3UK000000VTVG0001VTR8C1K7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/sv-blankenrath-sv-blankenrath-ev-rheinland/-/saison/2122/team-id/011MI9J05C000000VTVG0001VTR8C1K7\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/sg-minderlittgen-spvgg-minderlittgen-h-rheinland/-/saison/2122/team-id/02B2QN3R7K000000VS5489B2VS0NK514\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/sg-landscheid-niederkail-binsfeld-spvgg-landscheid-burg-rheinland/-/saison/2122/team-id/02ETPCMR6S000000VS5489B1VT0RKM5V\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/sg-neumagen-dhron-sv-neumagen-dhron-rheinland/-/saison/2122/team-id/01L2DRSMH0000000VV0AG80NVVQMG8U7\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/sg-buchholz-djk-buchholz-rheinland/-/saison/2122/team-id/011MI9V0Q0000000VTVG0001VTR8C1K7\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/sg-zell-bullay-alf-sv-zell-rheinland/-/saison/2122/team-id/011MIASUO4000000VTVG0001VTR8C1K7\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/sg-traben-trarbach-fc-traben-trarbach-rheinland/-/saison/2122/team-id/011MIA41TC000000VTVG0001VTR8C1K7\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/fv-morbach-monzelfeld-ii-fv-hunsrueckhoehe-morbach-rheinland/-/saison/2122/team-id/02BAUDDJQ0000000VS5489B2VVDBHQQ7\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/sg-laufeld-sv-laufeld-rheinland/-/saison/2122/team-id/011MIB1NLS000000VTVG0001VTR8C1K7\""
+        ]
+    },
+    "\"Rheinland__213__00ES8GN0HG00000CVV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/sg-bad-breisig-sg-bad-breisig-rheinland/-/saison/2122/team-id/027JU11230000000VS5489B1VUA37ON8\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/sg-westum-sv-rheinland-westum-rheinland/-/saison/2122/team-id/011MIBTIF0000000VTVG0001VTR8C1K7\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/ahrweiler-bc-ii-ahrweiler-bc-rheinland/-/saison/2122/team-id/011MIAJHO0000000VTVG0001VTR8C1K7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/sg-ettringen-jsv-ettringen-rheinland/-/saison/2122/team-id/011MIA9R10000000VTVG0001VTR8C1K7\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/tus-kottenheim-tus-kottenheim-rheinland/-/saison/2122/team-id/011MIA44P4000000VTVG0001VTR8C1K7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/sg-eich-spvgg-eintracht-eich-rheinland/-/saison/2122/team-id/011MICEA5G000000VTVG0001VTR8C1K7\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/sg-99-andernach-ii-sg-99-andernach-rheinland/-/saison/2122/team-id/011MIAJF00000000VTVG0001VTR8C1K7\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/sg-maifeld-ii-maifelder-sv-ev-rheinland/-/saison/2122/team-id/011MICTJDC000000VTVG0001VTR8C1K7\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/sg-dernau-sv-dernau-rheinland/-/saison/2122/team-id/011MI9J2GG000000VTVG0001VTR8C1K7\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/sg-hocheifel-adenau-tuwi-adenau-rheinland/-/saison/2122/team-id/02EV41753S000000VS5489B1VT0RKM5V\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/sg-heimersheim-sg-landskr-heimersheim-rheinland/-/saison/2122/team-id/011MIBBAJS000000VTVG0001VTR8C1K7\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/sc-saffig-sc-concordia-saffig-rheinland/-/saison/2122/team-id/011MIEV8TO000000VTVG0001VTR8C1K7\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/spfr-miesenheim-fc-spfr-miesenheim-rheinland/-/saison/2122/team-id/011MIDBJ60000000VTVG0001VTR8C1K7\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/sg-kempenich-sc-kempenich-rheinland/-/saison/2122/team-id/011MICTJMS000000VTVG0001VTR8C1K7\""
+        ]
+    },
+    "\"Rheinland__213__00ES8GN0HG00000AVV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/sg-kordel-sv-kordel-rheinland/-/saison/2122/team-id/02EMN52BT0000000VS5489B1VU24SJ9U\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/sg-igel-liersberg-sv-igel-liersberg-1963-ev-rheinland/-/saison/2122/team-id/02EV7D729G000000VS5489B2VVP292BR\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/sv-sirzenich-sv-sirzenich-rheinland/-/saison/2122/team-id/011MICTIH8000000VTVG0001VTR8C1K7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/fsv-trier-tarforst-ii-fsv-trier-tarforst-rheinland/-/saison/2122/team-id/011MIBHOP0000000VTVG0001VTR8C1K7\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/sv-tawern-sv-tawern-rheinland/-/saison/2122/team-id/011MI99F0O000000VTVG0001VTR8C1K7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/sg-osburg-fsv-osburg-rheinland/-/saison/2122/team-id/02EH6U4NAG000000VS5489B1VSHVETGR\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/sv-foehren-sv-foehren-1920-ev-rheinland/-/saison/2122/team-id/011MIAEK5S000000VTVG0001VTR8C1K7\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/sg-saarburg-tus-fortuna-saarburg-rheinland/-/saison/2122/team-id/02B91QFQN8000000VS5489B1VU7OHECJ\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/tus-reinsfeld-tus-reinsfeld-rheinland/-/saison/2122/team-id/011MI9J2TS000000VTVG0001VTR8C1K7\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/tus-trier-euren-tus-trier-euren-rheinland/-/saison/2122/team-id/011MICMBQ8000000VTVG0001VTR8C1K7\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/djk-pluwig-gusterath-djk-pluwig-gusterath-rheinland/-/saison/2122/team-id/011MIBB7A0000000VTVG0001VTR8C1K7\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/fc-koenen-fc-koenen-ev-rheinland/-/saison/2122/team-id/011MI9OMB8000000VTVG0001VTR8C1K7\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/sg-poelich-schleich-sv-poelich-schleich-rheinland/-/saison/2122/team-id/011MIASV80000000VTVG0001VTR8C1K7\""
+        ]
+    },
+    "\"Rheinland__213__00ES8GN0IO000000VV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/sg-lautzert-oberdreis-berod-wahlrod-spvgg-lautzert-oberdreis-rheinland/-/saison/2122/team-id/02B9C056KK000000VS5489B1VU20GQ5T\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/sg-06-betzdorf-sg-06-betzdorf-rheinland/-/saison/2122/team-id/011MID4I5C000000VTVG0001VTR8C1K7\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/djk-friesenhagen-djk-friesenhagen-rheinland/-/saison/2122/team-id/011MICTK4G000000VTVG0001VTR8C1K7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/vfb-niederdreisbach-vfb-niederdreisbach-rheinland/-/saison/2122/team-id/012K0HRG5S000000VV0AG80NVVJ79KI7\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/sg-herdorf-spfr-herdorf-rheinland/-/saison/2122/team-id/011MIDBFOO000000VTVG0001VTR8C1K7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/spfr-schoenstein-spfr-schoenstein-rheinland/-/saison/2122/team-id/011MIFDJ40000000VTVG0001VTR8C1K7\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/vfl-hamm-vfl-hamm-rheinland/-/saison/2122/team-id/011MIE920C000000VTVG0001VTR8C1K7\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/sg-alsdorf-sv-09-alsdorf-rheinland/-/saison/2122/team-id/011MID4MI0000000VTVG0001VTR8C1K7\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/sv-niederfischbach-sv-adler-niederfischbach-rheinland/-/saison/2122/team-id/011MIB1OA0000000VTVG0001VTR8C1K7\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/sg-westerburg-ii-tus-westerburg-rheinland/-/saison/2122/team-id/011MIEG6PK000000VTVG0001VTR8C1K7\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/ssv-weyerbusch-ssv-weyerbusch-rheinland/-/saison/2122/team-id/011MIDQ6PC000000VTVG0001VTR8C1K7\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/sg-daaden-spfr-daaden-1911-ev-rheinland/-/saison/2122/team-id/011MIBHNTS000000VTVG0001VTR8C1K7\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/sg-nauroth-moerlen-norken-sv-moerlen-1946-rheinland/-/saison/2122/team-id/027E2IG4FS000000VS5489B2VVB7EFSC\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/sg-guckheim-koelbingen-eintracht-guckheim-rheinland/-/saison/2122/team-id/011MIA9ORO000000VTVG0001VTR8C1K7\""
+        ],
+        "14": [
+            "https://www.fussball.de/mannschaft/sg-gebhardshainer-land-steineroth-dauersberg-spvgg-steineroth-dauersb-rheinland/-/saison/2122/team-id/0168IQT2P4000000VV0AG811VSO6UDV8\""
+        ]
+    },
+    "\"Rheinland__213__00ES8GN0HG00000FVV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/sg-st-katharinen-vettelschoss-djk-st-katharinen-rheinland/-/saison/2122/team-id/02ENG43JRK000000VS5489B1VU24SJ9U\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/sg-puderbach-spfr-puderbach-rheinland/-/saison/2122/team-id/011MIBNV6C000000VTVG0001VTR8C1K7\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/hsv-neuwied-hsv-neuwied-2014-ev-rheinland/-/saison/2122/team-id/01L2JO6STS000000VV0AG80NVVQMG8U7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/vfl-oberbieber-vfl-oberbieber-rheinland/-/saison/2122/team-id/011MIE7E1C000000VTVG0001VTR8C1K7\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/sg-niederbreitbach-waldbreitbach-sg-wiedt-niederbreitbach-rheinland/-/saison/2122/team-id/011MICEACG000000VTVG0001VTR8C1K7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/sv-ataspor-unkel-sv-ataspor-unkel-ev-rheinland/-/saison/2122/team-id/011MIC9H98000000VTVG0001VTR8C1K7\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/ssv-heimbach-weis-ssv-heimbach-weis-rheinland/-/saison/2122/team-id/011MIBO0FO000000VTVG0001VTR8C1K7\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/tus-asbach-tus-asbach-rheinland/-/saison/2122/team-id/011MI9J0J4000000VTVG0001VTR8C1K7\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/sv-rossbach-verscheid-sv-rossbach-verscheid-rheinland/-/saison/2122/team-id/011MIBB7S0000000VTVG0001VTR8C1K7\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/sv-tuerkiyemspor-r-b-sv-tuerkiyemspor-ransbach-baumb-rheinland/-/saison/2122/team-id/011MIB2N94000000VTVG0001VTR8C1K7\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/sg-nauort-ransbach-sv-fortuna-nauort-rheinland/-/saison/2122/team-id/011MIASU1S000000VTVG0001VTR8C1K7\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/sg-horressen-sv-horressen-rheinland/-/saison/2122/team-id/011MIDBGC4000000VTVG0001VTR8C1K7\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/sg-steinefrenz-w-m-b-i-spvgg-steinefrenz-weroth-rheinland/-/saison/2122/team-id/02EUHCDAJS000000VS5489B1VT0RKM5V\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/djk-n-fernthal-djk-fernthal-rheinland/-/saison/2122/team-id/011MIC388K000000VTVG0001VTR8C1K7\""
+        ]
+    },
+    "\"Rheinland__214__00ES8GN0HG00000DVV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/fc-urbar-fc-urbar-rheinland/-/saison/2122/team-id/011MIDBG0O000000VTVG0001VTR8C1K7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/vfl-kesselheim-vfl-kesselheim-rheinland/-/saison/2122/team-id/011MIAJEK4000000VTVG0001VTR8C1K7\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/fc-arzheim-fc-arzheim-rheinland/-/saison/2122/team-id/011MIEG6VG000000VTVG0001VTR8C1K7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/fsv-rw-lahnstein-fsv-rw-lahnstein-rheinland/-/saison/2122/team-id/01A029T108000000VV0AG811VVGIENKF\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/sg-rheindoerfer-tus-st-sebastian-rheinland/-/saison/2122/team-id/02ERBUK6EO000000VS5489B1VT0RKM5V\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/sv-untermosel-kobern-ii-sv-untermosel-kobern-g-rheinland/-/saison/2122/team-id/011MIAEKD4000000VTVG0001VTR8C1K7\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/tus-immendorf-ii-tus-immendorf-rheinland/-/saison/2122/team-id/011MIAT0JK000000VTVG0001VTR8C1K7\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/sv-weitersburg-ii-sv-weitersburg-rheinland/-/saison/2122/team-id/011MIDII1C000000VTVG0001VTR8C1K7\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/fv-ruebenach-ii-fv-ruebenach-rheinland/-/saison/2122/team-id/011MIAEKSC000000VTVG0001VTR8C1K7\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/tv-muelhofen-tv-muelhofen-rheinland/-/saison/2122/team-id/011MIBNV5K000000VTVG0001VTR8C1K7\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/sv-08-hillscheid-sv-hillscheid-rheinland/-/saison/2122/team-id/011MIENBHO000000VTVG0001VTR8C1K7\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/bsv-weissenthurm-bsv-weissenthurm-1911-ev-rheinland/-/saison/2122/team-id/01L311E8R0000000VV0AG80NVVQMG8U7\""
+        ]
+    },
+    "\"Rheinland__214__00ES8GN0HG00000EVV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/tus-singhofen-tus-singhofen-rheinland/-/saison/2122/team-id/011MIE1GHC000000VTVG0001VTR8C1K7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/sg-nievern-ii-sv-hertha-nievern-rheinland/-/saison/2122/team-id/027F1PB9A8000000VS5489B1VU8ROJMK\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/tus-burgschwalbach-ii-tus-burgschwalbach-rheinland/-/saison/2122/team-id/011MI99714000000VTVG0001VTR8C1K7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/fc-linde-berndroth-fc-berndroth-rheinland/-/saison/2122/team-id/01DFBSLD7K000000VV0AG811VV52HA13\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/tus-katzenelnbogen-kl-ii-tus-katzenelnbogen-klingelbach-rheinland/-/saison/2122/team-id/011MIC39EC000000VTVG0001VTR8C1K7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/tus-heistenbach-tus-heistenbach-rheinland/-/saison/2122/team-id/011MIEG7I8000000VTVG0001VTR8C1K7\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/sg-rheinhoehen-dahlheim-ii-tus-dahlheim-rheinland/-/saison/2122/team-id/011MICEDIS000000VTVG0001VTR8C1K7\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/fsv-osterspai-ii-vfl-osterspai-rheinland/-/saison/2122/team-id/011MICMELO000000VTVG0001VTR8C1K7\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/sg-bornich-ii-tv-bornich-rheinland/-/saison/2122/team-id/02B6RES4OO000000VS5489B2VS0NK514\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/sg-birlenbach-ii-sc-birlenbach-rheinland/-/saison/2122/team-id/011MIBT7EK000000VTVG0001VTR8C1K7\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/fsv-welterod-fsv-welterod-rheinland/-/saison/2122/team-id/011MI9OMSK000000VTVG0001VTR8C1K7\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/sg-2020-holzappel-ii-vfl-holzappel-rheinland/-/saison/2122/team-id/02EVN6Q664000000VS5489B2VUBVHUE0\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/vfl-altendiez-ii-vfl-altendiez-rheinland/-/saison/2122/team-id/011MIENBTO000000VTVG0001VTR8C1K7\""
+        ]
+    },
+    "\"Rheinland__215__00ES8GN0HG00000BVV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/ssg-lutzerather-hoehe-ii-ssg-lutzerather-hoehe-rheinland/-/saison/2122/team-id/023OKE2H4C000000VS548985VTNSAQK7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/sg-illerich-landkern-sv-illerich-rheinland/-/saison/2122/team-id/02EK4IFR70000000VS5489B2VVOABD77\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/sg-sohren-ii-tus-sohren-rheinland/-/saison/2122/team-id/02BUKRF7RK000000VS5489B1VU12VP8F\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/sg-hunsrueckhoehe-ii-fc-baerenbach-rheinland/-/saison/2122/team-id/027AQVF8H8000000VS5489B1VU8ROJMK\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/sg-uhler-2-tus-uhler-rheinland/-/saison/2122/team-id/02EM2U3GKO000000VS5489B2VSAS84KM\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/sg-%22eifelhoehe%22-faid-ii-fc-faid-rheinland/-/saison/2122/team-id/02EGBAKP3K000000VS5489B1VSHVETGR\""
+        ]
+    },
+    "\"Rheinland__215__00ES8GN0HG00000DVV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/sv-untermosel-kobern-iii-sv-untermosel-kobern-g-rheinland/-/saison/2122/team-id/011MICMCJS000000VTVG0001VTR8C1K7\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/sf-hoehr-grenzhausen-ii-sf-hoehr-grenzhausen-rheinland/-/saison/2122/team-id/011MIDBIP8000000VTVG0001VTR8C1K7\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/fc-urbar-ii-fc-urbar-rheinland/-/saison/2122/team-id/011MIA9QPO000000VTVG0001VTR8C1K7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/bsc-guels-bsc-guels-rheinland/-/saison/2122/team-id/011MIFDID0000000VTVG0001VTR8C1K7\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/fc-horchheim-ii-fc-1911-horchheim-rheinland/-/saison/2122/team-id/011MIEV96O000000VTVG0001VTR8C1K7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/sg-2000-muelheim-kaerlich-iii-sg-2000-muelheim-kaerlich-rheinland/-/saison/2122/team-id/012M9899V0000000VV0AG811VUPV8FHO\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/sc-bendorf-sayn-ii-sc-bendorf-sayn-rheinland/-/saison/2122/team-id/011MIENBIS000000VTVG0001VTR8C1K7\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/vfr-koblenz-ii-vfr-eintracht-koblenz-rheinland/-/saison/2122/team-id/011MIFDINS000000VTVG0001VTR8C1K7\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/tus-germania-arenberg-tus-germania-arenberg-rheinland/-/saison/2122/team-id/01A456VNKS000000VV0AG811VSUI9EOJ\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/sv-pfaffendorf-sv-pfaffendorf-rheinland/-/saison/2122/team-id/011MIF6DLK000000VTVG0001VTR8C1K7\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/sv-niederwerth-ii-sv-niederwerth-rheinland/-/saison/2122/team-id/011MIC8G9K000000VTVG0001VTR8C1K7\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/fsv-rw-lahnstein-ii-fsv-rw-lahnstein-rheinland/-/saison/2122/team-id/01SCCF7A4G000000VS548985VVACT3U2\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/sg-spay-ii-sv-spay-rheinland/-/saison/2122/team-id/02ESISSKVG000000VS5489B2VVP292BR\""
+        ],
+        "13": [
+            "https://www.fussball.de/mannschaft/vfl-kesselheim-ii-vfl-kesselheim-rheinland/-/saison/2122/team-id/011MIEG998000000VTVG0001VTR8C1K7\""
+        ],
+        "14": [
+            "https://www.fussball.de/mannschaft/sc-simmern-sc-simmern-ev-rheinland/-/saison/2122/team-id/011MIC391K000000VTVG0001VTR8C1K7\""
+        ]
+    },
+    "\"Rheinland__215__00ES8GN0HG00000EVV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/spfr-bad-ems-sf-bad-ems-rheinland/-/saison/2122/team-id/02753TKG54000000VS5489B1VSBHJ1NS\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/sv-allendorf-berghausen-sv-allendorf-berghausen-rheinland/-/saison/2122/team-id/01A3QFLL3G000000VV0AG80NVV866B7J\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/tus-weinaehr-tus-weinaehr-rheinland/-/saison/2122/team-id/011MIDIICC000000VTVG0001VTR8C1K7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/sv-diez-freiendiez-ii-sv-diez-freiendiez-rheinland/-/saison/2122/team-id/01DNJ4MKV8000000VV0AG811VUHA37O7\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/sg-miehlen-ii-tus-miehlen-rheinland/-/saison/2122/team-id/02EJ5PFN40000000VS5489B2VS183IS6\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/vfr-winden-vfr-winden-rheinland/-/saison/2122/team-id/012HH8ENSO000000VV0AG811VT1UN0HI\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/tus-gueckingen-ii-tus-gueckingen-rheinland/-/saison/2122/team-id/011MIFDKG0000000VTVG0001VTR8C1K7\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/tus-niederneisen-ii-tus-niederneisen-rheinland/-/saison/2122/team-id/011MIF6D7G000000VTVG0001VTR8C1K7\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/sg-rheinhoehen-dahlheim-iii-tus-dahlheim-rheinland/-/saison/2122/team-id/02EUOR53V4000000VS5489B1VT0RKM5V\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/tus-nassovia-nassau-ii-tus-nassovia-nassau-1913-rheinland/-/saison/2122/team-id/01S753H6EG000000VS548985VUL18RL3\""
+        ]
+    },
+    "\"Rheinland__215__00ES8GN0HG00000AVV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/sg-igel-liersberg-ii-sv-igel-liersberg-1963-ev-rheinland/-/saison/2122/team-id/02EV7EGV2K000000VS5489B2VVP292BR\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/sv-eintracht-trier-ii-sv-eintr-05-trier-rheinland/-/saison/2122/team-id/027G2Q7CV0000000VS5489B1VU8ROJMK\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/fsg-ehrang-ii-sv-ehrang-rheinland/-/saison/2122/team-id/011MIBB79C000000VTVG0001VTR8C1K7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/tus-issel-tus-issel-rheinland/-/saison/2122/team-id/011MIAJFUO000000VTVG0001VTR8C1K7\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/sg-newel-sv-newel-rheinland/-/saison/2122/team-id/02EOP879M0000000VS5489B2VVP292BR\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/fsv-trier-kuerenz-fsv-trier-kuerenz-ev-1920-rheinland/-/saison/2122/team-id/011MIBNURO000000VTVG0001VTR8C1K7\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/tus-mosella-schweich-iii-tus-mosella-schweich-rheinland/-/saison/2122/team-id/011MIC4VVK000000VTVG0001VTR8C1K7\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/tsg-trier-biewer-tsg-trier-biewer-rheinland/-/saison/2122/team-id/011MIDBII4000000VTVG0001VTR8C1K7\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/sv-udelfangen-sv-udelfangen-rheinland/-/saison/2122/team-id/011MICMB1K000000VTVG0001VTR8C1K7\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/tus-kenn-tus-kenn-rheinland/-/saison/2122/team-id/020167CCPO000000VS548985VU1T928D\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/tus-trier-euren-ii-tus-trier-euren-rheinland/-/saison/2122/team-id/011MI9J0SG000000VTVG0001VTR8C1K7\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/ssg-kernscheid-ssg-kernscheid-rheinland/-/saison/2122/team-id/011MICEC30000000VTVG0001VTR8C1K7\""
+        ],
+        "12": [
+            "https://www.fussball.de/mannschaft/sg-ralingen-ii-fsv-ralingen-rheinland/-/saison/2122/team-id/011MIC3ADS000000VTVG0001VTR8C1K7\""
+        ]
+    },
+    "\"Rheinland__216__00ES8GN0HG00000DVV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/sv-reinhardt%27s-elf-sv-reinhardt%27s-elf-rheinland/-/saison/2122/team-id/02EVOS2MUG000000VS5489B1VT1H0S9M\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/tus-neuendorf-tus-neuendorf-82-rheinland/-/saison/2122/team-id/01HCTJHL4C000000VV0AG80NVU1T6GD1\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/fc-syrien-koblenz-ev-fc-syrien-koblenz-rheinland/-/saison/2122/team-id/02BIKK7T2O000000VS5489B2VU21J0QC\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/sg-spay-iii-sv-spay-rheinland/-/saison/2122/team-id/02ET4J1MOK000000VS5489B2VVP292BR\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/tus-niederberg-ii-tus-niederberg-rheinland/-/saison/2122/team-id/023MA1EAJG000000VS548985VTNSAQK7\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/tus-kettig-ii-tus-kettig-ev-rheinland/-/saison/2122/team-id/01DGOM3D20000000VV0AG811VUI3JOHJ\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/tv-winningen-2-tv-winningen-rheinland/-/saison/2122/team-id/02ET97SK9G000000VS5489B2VVP292BR\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/tv-muelhofen-iii-tv-muelhofen-rheinland/-/saison/2122/team-id/027FV6N92S000000VS5489B2VVB7EFSC\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/tus-koblenz-ii-tus-koblenz-rheinland/-/saison/2122/team-id/011MICQQLC000000VTVG0001VTR8C1K7\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/sv-pfaffendorf-ii-sv-pfaffendorf-rheinland/-/saison/2122/team-id/011MIDBJ1G000000VTVG0001VTR8C1K7\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/fc-cosmos-koblenz-ii-fc-cosmos-koblenz-rheinland/-/saison/2122/team-id/0275VSSR3C000000VS5489B1VSBHJ1NS\""
+        ]
+    },
+    "\"Rheinland__216__00ES8GN0HG00000AVV0AG08LVUPGND5I\"": {
+        "0": [
+            "https://www.fussball.de/mannschaft/sg-kordel-ii-sv-kordel-rheinland/-/saison/2122/team-id/02EMN96038000000VS5489B1VU24SJ9U\""
+        ],
+        "1": [
+            "https://www.fussball.de/mannschaft/ssg-kernscheid-ii-ssg-kernscheid-rheinland/-/saison/2122/team-id/011MIENDB0000000VTVG0001VTR8C1K7\""
+        ],
+        "2": [
+            "https://www.fussball.de/mannschaft/sv-trier-olewig-ii-sv-trier-olewig-rheinland/-/saison/2122/team-id/011MIE1IF8000000VTVG0001VTR8C1K7\""
+        ],
+        "3": [
+            "https://www.fussball.de/mannschaft/sg-igel-liersberg-iii-sv-igel-liersberg-1963-ev-rheinland/-/saison/2122/team-id/02EV7HNJ8K000000VS5489B2VVP292BR\""
+        ],
+        "4": [
+            "https://www.fussball.de/mannschaft/sg-pellingen-ii-sv-pellingen-rheinland/-/saison/2122/team-id/02EH6VC790000000VS5489B2VS183IS6\""
+        ],
+        "5": [
+            "https://www.fussball.de/mannschaft/sg-newel-ii-sv-newel-rheinland/-/saison/2122/team-id/02EOPAB1SS000000VS5489B2VVP292BR\""
+        ],
+        "6": [
+            "https://www.fussball.de/mannschaft/sv-eintracht-ruwer-sv-eintr-ruwer-rheinland/-/saison/2122/team-id/02EIH4LKK8000000VS5489B2VS183IS6\""
+        ],
+        "7": [
+            "https://www.fussball.de/mannschaft/ssg-mariahof-trier-ii-ssg-mariahof-trier-rheinland/-/saison/2122/team-id/01643OR5SS000000VV0AG80NVTUFHGK9\""
+        ],
+        "8": [
+            "https://www.fussball.de/mannschaft/sv-sirzenich-iii-sv-sirzenich-rheinland/-/saison/2122/team-id/0203NKJUSC000000VS548984VSUCHKOE\""
+        ],
+        "9": [
+            "https://www.fussball.de/mannschaft/djk-st-matthias-trier-ii-djk-st-matthias-trier-rheinland/-/saison/2122/team-id/011MIE914O000000VTVG0001VTR8C1K7\""
+        ],
+        "10": [
+            "https://www.fussball.de/mannschaft/tus-issel-ii-tus-issel-rheinland/-/saison/2122/team-id/011MIFDL1S000000VTVG0001VTR8C1K7\""
+        ],
+        "11": [
+            "https://www.fussball.de/mannschaft/fsg-ehrang-iii-sv-ehrang-rheinland/-/saison/2122/team-id/01DMLLOEU0000000VV0AG80NVSQ3PCMQ\""
+        ]
+    }
+}
